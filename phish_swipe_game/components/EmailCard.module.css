@@ -1,0 +1,349 @@
+.swipeContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+  position: relative;
+  touch-action: pan-y;
+  user-select: none;
+}
+
+.swipeContainer.swiping {
+  cursor: grabbing;
+}
+
+.card {
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.07), 0 4px 6px -4px rgba(0, 0, 0, 0.07);
+  border: 1px solid #e5e7eb;
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Email header */
+.emailHeader {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #f3f4f6;
+  background-color: #f9fafb;
+  flex-shrink: 0;
+}
+
+.emailIcon {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: #dbeafe;
+  color: #2563eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.75rem;
+  flex-shrink: 0;
+}
+
+.emailDetails {
+  overflow: hidden;
+}
+
+.emailSubject {
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.emailSender {
+  color: #4b5563;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Swipe overlays - displayed during swipe */
+.swipeOverlayLeft, .swipeOverlayRight {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) scale(1.05);
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  z-index: 10;
+  pointer-events: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.swipeOverlayLeft {
+  left: 1.25rem;
+  color: #166534;
+  border-color: #dcfce7;
+}
+
+.swipeOverlayRight {
+  right: 1.25rem;
+  color: #991b1b;
+  border-color: #fee2e2;
+}
+
+.overlayIcon {
+  font-size: 1.1rem;
+}
+
+/* Email section */
+.emailSection {
+    padding: 1rem 1.5rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+    min-height: 200px;
+}
+
+.emailContent {
+  flex-grow: 1; 
+  overflow-y: auto; 
+  margin-bottom: 1rem; 
+  padding: 1rem; 
+  font-size: 0.95rem; 
+  color: #1f2937; 
+  line-height: 1.6;
+  white-space: pre-wrap; 
+  background-color: #f9fafb; 
+  border-radius: 0.375rem; 
+  border: 1px solid #e5e7eb;
+  max-height: 35vh;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Phishing indicators */
+.phishingIndicators {
+  flex-shrink: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+  background-color: #fff7ed;
+  border: 1px solid #ffedd5;
+  border-radius: 0.375rem;
+  padding: 0.75rem;
+  font-size: 0.85rem;
+  color: #9a3412;
+  animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.indicatorHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.indicatorList {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.indicatorList li {
+  margin-bottom: 0.25rem;
+}
+
+.indicatorList li:last-child {
+  margin-bottom: 0;
+}
+
+/* Scrollbar styling */
+.emailContent::-webkit-scrollbar {
+  width: 6px;
+}
+.emailContent::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+.emailContent::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+.emailContent::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
+
+/* Controls section */
+.controlsSection {
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    border-top: 1px solid #f3f4f6; 
+    flex-shrink: 0;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column; 
+  gap: 0.75rem; 
+  margin-bottom: 0.75rem;
+}
+
+.button {
+  flex: 1; 
+  padding: 0.75rem 1rem;
+  font-weight: 600; 
+  border-radius: 0.5rem; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.button:active {
+    transform: scale(0.98) translateY(1px);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.button svg {
+  margin-right: 0.5rem;
+  font-size: 1rem;
+}
+
+.realButton {
+  composes: button;
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.realButton:hover {
+  background-color: #bbf7d0;
+}
+
+.phishButton {
+  composes: button;
+  background-color: #fee2e2;
+  color: #991b1b;
+}
+
+.phishButton:hover {
+  background-color: #fecaca;
+}
+
+.instructions {
+  text-align: center;
+  color: #6b7280; 
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Responsive adjustments */
+@media (min-width: 380px) {
+  .buttonContainer {
+    flex-direction: row; 
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 640px) {
+  .card {
+    border-radius: 1.25rem;
+  }
+  
+  .emailHeader {
+    padding: 1.25rem 2rem;
+  }
+  
+  .emailIcon {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+  }
+  
+  .emailSubject {
+    font-size: 1.1rem;
+  }
+  
+  .emailSender {
+    font-size: 0.9rem;
+  }
+  
+  .emailSection {
+    padding: 1.5rem 2rem;
+    min-height: 250px;
+  }
+  
+  .emailContent {
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+  }
+  
+  .phishingIndicators {
+    padding: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .controlsSection {
+    padding: 1.5rem 2rem 2rem 2rem;
+  }
+  
+  .buttonContainer {
+    gap: 1.5rem;
+  }
+  
+  .button {
+    padding: 0.85rem 1.25rem;
+    font-size: 1rem;
+  }
+  
+  .button svg {
+    margin-right: 0.6rem;
+    font-size: 1.1rem;
+  }
+  
+  .instructions {
+    font-size: 0.9rem;
+  }
+  
+  .swipeOverlayLeft, .swipeOverlayRight {
+    font-size: 1rem;
+    padding: 0.625rem 1.25rem;
+  }
+  
+  .overlayIcon {
+    font-size: 1.25rem;
+  }
+  
+  .swipeOverlayLeft {
+    left: 2rem;
+  }
+  
+  .swipeOverlayRight {
+    right: 2rem;
+  }
+} 

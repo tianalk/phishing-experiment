@@ -1,0 +1,155 @@
+# Project Requirements Document (PRD): Phish Forensics - AI vs. Human Detection
+
+**Version:** 1.1
+**Date:** 2024-07-26
+**Author/Owner:** Product Management
+
+## 1. Overview & Strategic Context
+
+### 1.1. Vision
+To illuminate the evolving landscape of cyber threats by quantifying the impact of Artificial Intelligence on the efficacy of spear phishing attacks, specifically those mirroring tactics associated with state actors like North Korea. We aim to provide empirical data comparing AI-driven versus traditional phishing methods through both automated analysis and human interaction, ultimately informing cybersecurity strategies and threat intelligence.
+
+### 1.2. Problem Statement
+Spear phishing remains a highly effective vector for cyberattacks, responsible for significant financial losses and security breaches. Nation-states, notably North Korea, leverage this tactic extensively. The recent proliferation of sophisticated Large Language Models (LLMs) raises critical questions: Are these AI tools enabling attackers to craft more deceptive phishing emails *at scale*? How much more effective are AI-generated emails compared to human-crafted ones, and can current detection methods (both automated and human) keep pace? Lack of quantitative data hinders our understanding and response to this emerging threat.
+
+### 1.3. Goals
+*   **Goal 1 (Research):** Quantify the difference in detectability between human-generated and AI-generated phishing emails using LLM-based analysis. Validate or refute the hypothesis that AI enhances phishing deceptiveness against automated systems.
+*   **Goal 2 (Research):** Quantify the difference in detectability between human-generated and AI-generated phishing emails using human judgment via an engaging web application. Validate or refute the hypothesis that AI enhances phishing deceptiveness against human intuition.
+*   **Goal 3 (Comparison):** Compare the performance patterns of LLM detectors versus human judges across both datasets. Identify if humans and AI have different strengths or weaknesses in detecting specific types of phishing attempts.
+*   **Goal 4 (Engagement & Awareness - Secondary):** Increase public awareness about the nuances of modern phishing attacks through an interactive game format.
+
+### 1.4. Target Audience / Personas
+*   **Researchers & Academics:** Utilize findings for publications, further studies on AI in cybersecurity, and understanding threat evolution.
+*   **Cybersecurity Professionals & Threat Analysts:** Gain insights into emerging phishing techniques to refine detection rules, training programs, and threat intelligence feeds.
+*   **Policymakers:** Understand the tangible impact of AI on national security threats to inform potential regulations or strategic responses.
+*   **General Public (Game Users):** Become more aware of phishing tactics and improve their personal ability to identify malicious emails through an engaging experience.
+
+## 2. Core Components & Features
+
+### 2.1. Component 1: LLM Evaluation Pipeline (Backend Script)
+
+#### 2.1.1. User Stories
+*   *As a Researcher,* I want to run an automated script that takes two datasets (human-generated and AI-generated emails) as input, so that I can evaluate an LLM's ability to classify emails as 'phishing' or 'legitimate'.
+*   *As a Researcher,* I want the script to output standard classification metrics (Accuracy, Precision, Recall, F1-Score) for each dataset, so that I can compare the LLM's performance across the two conditions.
+*   *As a Researcher,* I want to easily configure which LLM endpoint (and potentially model version) the script uses, so that I can test different AI detectors.
+*   *As a Researcher,* I want the script to log its progress and any errors encountered (e.g., API failures, rate limits), so that I can monitor execution and debug issues.
+*   *As a Researcher,* I want the script to output the LLM's classification for each individual email, alongside the true label, so that I can perform detailed error analysis later.
+
+#### 2.1.2. Functional Requirements
+*   **Input:** Two CSV files (`human_generated_emails.csv`, `llm_generated_emails.csv`) with columns: `Email_ID`, `Email_Body`, `True_Label`, `Source`. Configuration file or command-line arguments for LLM API key, model name, and potentially prompt template.
+*   **Processing:**
+    *   Load and validate input CSV data.
+    *   Iterate through each email in both datasets.
+    *   Construct a prompt for the specified LLM (e.g., "Classify the following email as either 'phishing' or 'legitimate'. Email Body: [Email_Body]"). *Prompt engineering might be required for optimal performance.*
+    *   Send the prompt to the configured LLM API.
+    *   Parse the LLM's response to extract the classification ('phishing' or 'legitimate'). Handle variations in LLM output format.
+    *   Implement robust error handling for API calls (retries, backoff for rate limits).
+*   **Output:**
+    *   A summary report (console output or file) containing Accuracy, Precision, Recall, F1-Score (for 'phishing' class) calculated separately for each input dataset.
+    *   Detailed results CSV file(s) mapping `Email_ID` to `True_Label` and `LLM_Prediction`.
+    *   Logs detailing execution progress, API calls, and errors.
+*   **Configuration:** Allow easy modification of LLM provider/model, API keys (via environment variables or secure config), and potentially the classification prompt.
+
+### 2.2. Component 2: "Phish Swipe" Human Evaluation Game (Next.js Web App)
+
+#### 2.2.1. User Stories
+*   *As a Game User,* I want to be presented with an email's content clearly on my screen, so that I can read it easily.
+*   *As a Game User,* I want a simple, intuitive way (like swiping left/right) to classify the email as 'Real' (Legitimate) or 'Phish', so that the game is quick and easy to play.
+*   *As a Game User,* I want to receive immediate feedback after my swipe (e.g., "Correct! That was phishing." or "Oops! That was a real email."), so that I can learn from my mistakes.
+*   *As a Game User,* I might want to see a running score or progress indicator, so that I feel engaged and motivated.
+*   *As a Researcher,* I want the game to randomly present emails from both the human-generated and AI-generated datasets, so that I can collect unbiased human judgments on both types.
+*   *As a Researcher,* I want every user swipe (classification decision) to be recorded, linking the `Email_ID`, the user's choice, the `True_Label`, and the source dataset (Human/AI), so that I can calculate aggregate human performance metrics.
+
+#### 2.2.2. Functional Requirements
+*   **Frontend (Next.js):**
+    *   **Email Display:** Cleanly render `Email_Body` text. Handle basic formatting if present in source data (though plain text is preferred).
+    *   **Interaction:** Implement swipe left/right gesture controls (or button fallbacks) for classification. Clearly label directions (e.g., Left = Real, Right = Phish).
+    *   **Feedback:** Immediately display correctness after a swipe (visual cue, short text).
+    *   **Flow:** Present emails one after another, randomly sampled from the combined pool of datasets. Define session length (e.g., 10 emails) or continuous play.
+    *   **(Optional) Onboarding:** Simple instructions on first use explaining the goal and controls.
+    *   **(Optional) Gamification:** Display a score (e.g., number correct), streak counter, or progress bar.
+    *   **Responsiveness:** Ensure usability on both desktop and mobile browsers.
+*   **Backend (Next.js API Routes / Serverless):**
+    *   **Data Fetching:** Securely access and serve email data (`Email_ID`, `Email_Body`, `True_Label`, `Source`) to the frontend, likely fetching in batches to avoid exposing the entire dataset.
+    *   **Data Recording:** Receive classification events from the frontend (containing `Email_ID`, `User_Classification`, `True_Label`, `Source_Dataset`).
+    *   **Database:** Store recorded events reliably (e.g., PostgreSQL, Firestore). Include timestamps and potentially an anonymized user/session identifier.
+*   **Data Aggregation:** A separate script or backend process to query the database and calculate aggregate human performance metrics (Accuracy, Precision, Recall, F1) for each source dataset (Human-Generated vs. AI-Generated).
+
+## 3. Data Requirements
+
+### 3.1. Datasets
+*   `human_generated_emails.csv`: Containing human-crafted phishing emails and legitimate emails.
+*   `llm_generated_emails.csv`: Containing AI-generated phishing emails and legitimate emails.
+
+### 3.2. Schema (Required Columns)
+*   `Email_ID`: Unique text or numeric identifier for each email.
+*   `Email_Body`: Text content of the email. Preferably plain text.
+*   `True_Label`: Ground truth classification. Must be consistently either 'phishing' or 'legitimate'.
+*   `Source`: Indicator of the original source or campaign (Optional but helpful for analysis).
+
+### 3.3. Quality & Balance
+*   **Cleanliness:** Ensure CSVs are well-formatted, text is properly escaped, and headers are exactly as specified (`Email_ID`, `Email_Body`, `True_Label`, `Source`). No trailing spaces in headers.
+*   **Balance:** Strive for a roughly equal number of 'phishing' and 'legitimate' examples within *each* dataset to avoid classification bias.
+*   **Representativeness:** The emails should realistically reflect the targeted tactics (North Korean style, AI-generated nuances).
+
+## 4. Analysis & Reporting
+
+### 4.1. Metrics
+*   **Primary:** Accuracy, Precision (for 'phishing'), Recall (for 'phishing'), F1-Score (for 'phishing').
+*   Calculated separately for:
+    *   LLM on Human-Generated Data
+    *   LLM on AI-Generated Data
+    *   Humans on Human-Generated Data
+    *   Humans on AI-Generated Data
+
+### 4.2. Statistical Tests
+*   Use appropriate tests (e.g., independent samples t-test, Chi-squared) to determine if observed differences in metrics between datasets (Human vs. AI) are statistically significant for both LLM and Human evaluators.
+
+### 4.3. Qualitative Error Analysis
+*   Examine specific emails where LLMs and/or humans failed. Identify patterns:
+    *   What types of AI-generated emails successfully fool humans? LLMs?
+    *   What types of human-generated emails still fool detectors?
+    *   Are there specific linguistic features, topics, or structural elements associated with misclassifications?
+
+### 4.4. Reporting Structure
+*   Introduction (Problem, Hypothesis)
+*   Methodology (Dataset details, LLM setup, Game design, Metrics used)
+*   Results (Metric tables, Statistical test outcomes, Comparison charts: LLM vs. Human)
+*   Error Analysis Findings
+*   Discussion (Hypothesis validation, Implications for AI in cyber warfare, Comparison of Human vs. LLM weaknesses)
+*   Limitations
+*   Conclusion & Future Work
+
+## 5. Non-Functional Requirements
+
+*   **Performance:**
+    *   LLM Script: Efficient processing, mindful of API rate limits and costs.
+    *   Game: Low latency response for swipes and feedback (<500ms). Backend scales to handle concurrent users (target TBD, e.g., 100 concurrent users for MVP).
+*   **Scalability:** Backend infrastructure for the game should handle potential increases in user traffic if publicly promoted. Database schema designed for efficient querying.
+*   **Security:**
+    *   Protect LLM API keys (use environment variables, secrets management).
+    *   Anonymize game user data if possible. Protect stored results database.
+    *   Basic web security practices for the Next.js app (input validation, etc.).
+*   **Maintainability:**
+    *   Clean, commented code for both the script and the web app.
+    *   Use standard tooling (e.g., `pip` requirements file, `package.json`).
+    *   Version control (Git).
+*   **Usability (Game):** Intuitive, accessible interface. Clear instructions.
+
+## 6. Release Criteria (MVP)
+
+*   **LLM Script:** Successfully processes both datasets using at least one configured LLM, calculates and outputs core metrics, and saves detailed results for error analysis. Handles basic API errors.
+*   **Game:** Presents emails from both datasets, correctly records user classifications (swipe left/right) to the backend database, provides immediate feedback. Basic data aggregation script exists to calculate human metrics. Deployed and accessible via a URL.
+*   **Data:** Initial versions of both datasets are created, cleaned, and validated according to the specified schema.
+
+## 7. Future Considerations & Potential Enhancements
+
+*   **Multi-LLM Testing:** Easily swap or run evaluations across multiple LLMs (GPT variants, Claude, Gemini, open-source models).
+*   **Advanced Prompting:** Experiment with different prompt structures for the LLM classifier (e.g., few-shot prompting, chain-of-thought).
+*   **Game Leaderboard:** Add public or private leaderboards to increase engagement.
+*   **User Accounts (Optional):** Allow users to create simple accounts to track their long-term progress and accuracy.
+*   **Difficulty Levels:** Adapt game difficulty based on user performance or introduce specific challenging email types.
+*   **Targeted Analysis:** Filter results based on email source/campaign if that data is available.
+*   **Admin Dashboard:** Interface to view game usage statistics, manage datasets (potentially), and export results.
+*   **Browser Extension:** Potential future direction to allow users to classify real emails they encounter (raises significant privacy/security challenges).
+*   **Integration with Security Training:** Use the game framework as part of corporate security awareness training.
