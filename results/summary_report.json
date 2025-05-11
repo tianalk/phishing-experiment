@@ -1,0 +1,224 @@
+{
+    "Human_Generated_Metrics": {
+        "Accuracy": 0.94,
+        "Macro_Precision": 0.923728813559322,
+        "Macro_Recall": 0.9550000000000001,
+        "Macro_F1-Score": 0.9351553869061915,
+        "Per_Class": {
+            "legitimate": {
+                "Precision": 0.847457627118644,
+                "Recall": 1.0,
+                "F1-Score": 0.9174311926605505,
+                "Support": 50
+            },
+            "phishing": {
+                "Precision": 1.0,
+                "Recall": 0.91,
+                "F1-Score": 0.9528795811518325,
+                "Support": 100
+            }
+        },
+        "Confusion_Matrix": [
+            [
+                50,
+                0
+            ],
+            [
+                9,
+                91
+            ]
+        ],
+        "Labels": [
+            "legitimate",
+            "phishing"
+        ],
+        "Valid_Samples": 150,
+        "Total_Samples": 150,
+        "Error_Rate": 0.0,
+        "Phishing_Type_Breakdown": {
+            "ai-generated phishing": {
+                "Accuracy": 0.84,
+                "Macro_Precision": 0.5,
+                "Macro_Recall": 0.42,
+                "Macro_F1-Score": 0.45652173913043476,
+                "Per_Class": {
+                    "legitimate": {
+                        "Precision": 0.0,
+                        "Recall": 0.0,
+                        "F1-Score": 0.0,
+                        "Support": 0
+                    },
+                    "phishing": {
+                        "Precision": 1.0,
+                        "Recall": 0.84,
+                        "F1-Score": 0.9130434782608695,
+                        "Support": 50
+                    }
+                },
+                "Confusion_Matrix": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        8,
+                        42
+                    ]
+                ],
+                "Labels": [
+                    "legitimate",
+                    "phishing"
+                ],
+                "Valid_Samples": 50
+            },
+            "phishing": {
+                "Accuracy": 0.98,
+                "Macro_Precision": 0.5,
+                "Macro_Recall": 0.49,
+                "Macro_F1-Score": 0.494949494949495,
+                "Per_Class": {
+                    "legitimate": {
+                        "Precision": 0.0,
+                        "Recall": 0.0,
+                        "F1-Score": 0.0,
+                        "Support": 0
+                    },
+                    "phishing": {
+                        "Precision": 1.0,
+                        "Recall": 0.98,
+                        "F1-Score": 0.98989898989899,
+                        "Support": 50
+                    }
+                },
+                "Confusion_Matrix": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        49
+                    ]
+                ],
+                "Labels": [
+                    "legitimate",
+                    "phishing"
+                ],
+                "Valid_Samples": 50
+            }
+        }
+    },
+    "AI_Generated_Metrics": {
+        "Accuracy": 0.94,
+        "Macro_Precision": 0.923728813559322,
+        "Macro_Recall": 0.9550000000000001,
+        "Macro_F1-Score": 0.9351553869061915,
+        "Per_Class": {
+            "legitimate": {
+                "Precision": 0.847457627118644,
+                "Recall": 1.0,
+                "F1-Score": 0.9174311926605505,
+                "Support": 50
+            },
+            "phishing": {
+                "Precision": 1.0,
+                "Recall": 0.91,
+                "F1-Score": 0.9528795811518325,
+                "Support": 100
+            }
+        },
+        "Confusion_Matrix": [
+            [
+                50,
+                0
+            ],
+            [
+                9,
+                91
+            ]
+        ],
+        "Labels": [
+            "legitimate",
+            "phishing"
+        ],
+        "Valid_Samples": 150,
+        "Total_Samples": 150,
+        "Error_Rate": 0.0,
+        "Phishing_Type_Breakdown": {
+            "ai-generated phishing": {
+                "Accuracy": 0.84,
+                "Macro_Precision": 0.5,
+                "Macro_Recall": 0.42,
+                "Macro_F1-Score": 0.45652173913043476,
+                "Per_Class": {
+                    "legitimate": {
+                        "Precision": 0.0,
+                        "Recall": 0.0,
+                        "F1-Score": 0.0,
+                        "Support": 0
+                    },
+                    "phishing": {
+                        "Precision": 1.0,
+                        "Recall": 0.84,
+                        "F1-Score": 0.9130434782608695,
+                        "Support": 50
+                    }
+                },
+                "Confusion_Matrix": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        8,
+                        42
+                    ]
+                ],
+                "Labels": [
+                    "legitimate",
+                    "phishing"
+                ],
+                "Valid_Samples": 50
+            },
+            "phishing": {
+                "Accuracy": 0.98,
+                "Macro_Precision": 0.5,
+                "Macro_Recall": 0.49,
+                "Macro_F1-Score": 0.494949494949495,
+                "Per_Class": {
+                    "legitimate": {
+                        "Precision": 0.0,
+                        "Recall": 0.0,
+                        "F1-Score": 0.0,
+                        "Support": 0
+                    },
+                    "phishing": {
+                        "Precision": 1.0,
+                        "Recall": 0.98,
+                        "F1-Score": 0.98989898989899,
+                        "Support": 50
+                    }
+                },
+                "Confusion_Matrix": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        1,
+                        49
+                    ]
+                ],
+                "Labels": [
+                    "legitimate",
+                    "phishing"
+                ],
+                "Valid_Samples": 50
+            }
+        }
+    },
+    "LLM_Model": "openai/gpt-4.1",
+    "Timestamp": "2025-04-24 09:09:10",
+    "Human_Dataset": "data/FinalRun4.csv",
+    "AI_Dataset": "data/FinalRun4.csv"
+}

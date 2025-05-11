@@ -1,0 +1,95 @@
+Email_ID,True_Label,Email_Body,Binary_Label,LLM_Prediction
+144,ai-generated phishing,"Subject: Request for Comments on North Korea's Actions  
+
+Greetings,  
+
+I hope you are well. I’m writing regarding North Korea’s missile activity.  
+
+Could you provide insight on the following questions:  
+- Will North Korea conduct its next nuclear test soon?  
+- Is a quieter approach to North Korean aggression necessary?  
+- Should Japan consider increasing its defense budget?  
+
+I look forward to your response within 5 days.  
+
+Sincerely,  
+[Name Redacted]  
+[Institution Name]
+",phishing,legitimate
+143,ai-generated phishing,"Subject: Results from the Unification and North Korea Conference  
+
+Hello,  
+
+Thank you for your participation in the Unification and North Korea Academic Conference. We will be sending out the results of the joint review between September 5 and 7.  
+
+Those who submitted papers will receive a modest honorarium.  
+
+Best regards,  
+Korea Global Forum 2016 Organizing Committee  
+Seoul, Yonsei University  
+",phishing,legitimate
+124,ai-generated phishing,"Subject: Invitation to Contribute: Policy Analysis Article
+
+Dear [Think Tank Employee],
+
+On behalf of [Another Think Tank], I invite you to compose a 1,200-word article on recent North Korean missile launches and their broader implications. Your analysis on topics such as potential nuclear tests and regional defense strategies would be greatly valued.
+
+Please submit your contribution by [Oct 21, 2025]. An honorarium of approximately USD 480 will be provided.
+
+Best regards,
+[Sender Name]
+Senior Fellow, [Think Tank]",phishing,legitimate
+114,ai-generated phishing,"Subject: Request for Expert Opinion – Article Contribution
+
+Dear [Name],
+
+On behalf of [Think Tank], I invite you to contribute a 1,200-word article addressing recent missile tests and their implications for regional security. Your insights on topics such as potential nuclear tests and defense budget adjustments are highly valued.
+
+Please submit your draft by [submission date] for consideration, along with your proposed title. An honorarium of USD $480 will be provided.
+
+Best regards,
+[Sender Name]
+Senior Fellow, [Think Tank]",phishing,legitimate
+101,ai-generated phishing,"Subject: Collaboration Request – Humanitarian Research Project
+Dear [Name],
+Greetings from the International Aid Foundation. We are reaching out to propose a partnership on a new research project examining food security in North Korea. Given your expertise and our ongoing programs in East Asia, we believe a collaboration would greatly benefit both.
+We would like to schedule a meeting to discuss this in detail and explore how our organizations can work together. We are prepared to share preliminary findings and would welcome your insights.
+Thank you for considering this partnership opportunity. We look forward to your positive response.
+Best regards,
+[Name]
+Program Director, International Aid Foundation",phishing,legitimate
+148,ai-generated phishing,"Subject: NK News: Latest Articles on North Korea  
+
+Dear [Recipient Name],  
+
+I’m sharing recent articles about North Korea that might interest you. Feel free to share them with colleagues or friends.  
+
+Best regards,  
+Chad O'Carroll  
+CEO, Korea Risk Group  
+Cell KR: [Phone Number Redacted]
+",phishing,legitimate
+104,ai-generated phishing,"Subject:Opportunity: Technical Lead for Emerging SocialFi Platform
+
+Hello [Name],
+
+We’re launching an innovative SocialFi and Web3 gaming project and believe your technical acumen would be an ideal fit for our team. The role can be fully remote and offers competitive benefits.
+
+If interested, please reply to schedule a brief discussion.
+
+Best regards,
+[Recruiter Name]
+Talent Acquisition, [Company]",phishing,legitimate
+122,ai-generated phishing,"Subject:Briefing Request: North Korea Missile Test Analysis
+
+Dear [Name],
+
+I am [Journalist Name] with [Legitimate U.S. News Organization]. We are preparing an analytical piece on North Korea’s recent missile tests and would like your expert commentary. Please address the following:
+1. Prospects for a near-future nuclear test?
+2. Strategic shifts in regional defense responses?
+3. Implications for Japan’s defense strategy?
+
+Your input by [deadline] would be greatly appreciated.
+
+Sincerely,
+[Journalist Name]",phishing,legitimate

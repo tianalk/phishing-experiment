@@ -1,0 +1,2216 @@
+Email ID,Email_Body,Label ,Source ,Group ,URL,Email_Sender,Year,Email Category ,Broader category
+1,"Subject: Your Password for <legitimate portal site> Account Has Been Compromised
+We regret to inform you that we have detected an attempt to log into your account (<email
+address>) from an unauthorized application. The incident occurred on <date> at <time>
+(Korea Standard Time), and the IP address used was <IP address> located in Washington,
+the U.S.
+In order to prevent any further unauthorized access to your account, we recommend that
+you change your password immediately. You can do this by clicking on the following link:
+<link to change password - legitimate>
+Please note that if you fail to change your password, we may have to permanently delete or
+close your account in accordance with our security policy.",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,,Account Security/Login,Automated account
+2,"Subject: [Invitation] US Policy Toward North Korea Conference
+Dear ‹name of target expert>,
+I hope you and your family are enjoying a lovely holiday and a restful season. It is my privilege to invite you to provide a keynote address for an private workshop, hosted by the ‹name of legitimate think tank> to discuss the US policy toward North Korea. Given developments in North Korea since the collapse of US-DPRK and inter-Korean negotiations in 2019, as well as the changing strategic environment in East Asia, the traditional US approach to North Korea is unlikely to be effective going forward. It is time to question old assumptions and
+begin crafting a new strategy/approach that takes into consideration current strategic realities. We understand your schedule is quite busy, but we were hoping you could join us at least for the that lunch (12:30- 1:30pm EST). If you are able to join in person, we would cover your travel and accommodations to attend, and can provide you with a modest $500 speaker fee. If you are not
+available to join in person, we can accommodate remote participation as well. Please let me know if might be willing to join us and we can provide more details about the event
+and logistics right away. I look forward to hearing from you soon.
+All the best,
+‹name of legitimate think tank staff>",phishing ,FBI,Kimsuky ,https://therecord.media/north-korea-kimsuky-hackers-dmarc-emails,UNKNOWN,UNKNOWN,Event Speaker Invitation,1-on-1 communications 
+3,"Hi [Name],  We’re working on a SocialFi and Web3 game platform and believe your experience could really help us out. You’re welcome to join as a technical manager or developer, and you can work part-time or full-time, all remotely.  Let’s chat more about it! Thank you!  ",phishing ,"Ryan Sherstobitoff, SVP Threat Research & Intelligence",North Korean actor, https://securityscorecard.com/blog/inside-a-north-korean-phishing-operation-targeting-devops-employees/,UNKNOWN ,UNKNOWN,Job Offer/Opportunity,1-on-1 communications 
+4,"Hi [redacted],
+
+You recently changed your security settings so that your Google Account [redacted@gmail.com] is no longer protected by modern security standards.
+
+If you made this change
+You can make your account safer again by undoing this change at https://www.google.com/settings/security then switching to apps made by Google such as Gmail to access your account.
+
+If you did not make this change
+Please recovery your account by clicking the button below. Whoever made the change knows your password; we recommend that you change it right away.
+
+[Recovery account]
+
+Sincerely,
+The Google Accounts team",phishing ,"Adam Weidemann,Threat Analysis Group", ARCHIPELAGO,https://blog.google/threat-analysis-group/how-were-protecting-users-from-government-backed-attacks-from-north-korea/,<mail-noreply@acountgooqle.com>,UNKNOWN,Account Security/Login,Automated account
+5,"Hi [redacted],
+
+You recently changed your security settings so that your Google Account [redacted@gmail.com] is no longer protected by modern security standards.
+
+If you made this change
+You can make your account safer again by undoing this change at https://www.google.com/settings/security then switching to apps made by Google such as Gmail to access your account.
+
+If you did not make this change
+Please recovery your account by clicking the button below. Whoever made the change knows your password; we recommend that you change it right away.
+
+[Recovery account]
+
+Sincerely,
+The Google Accounts team
+
+This email can't receive replies. For more information, visit the Google Accounts Help Centre.",phishing ,"Adam Weidemann,Threat Analysis Group", ARCHIPELAGO,https://blog.google/threat-analysis-group/how-were-protecting-users-from-government-backed-attacks-from-north-korea/,<mail-noreply@acountgoogle.com>,2015,Account Security/Login,Automated account
+6,"STATE DEPARTMENT FEDERAL CREDIT UNION
+
+Dear Customer:
+
+We noticed some suspicious activities in your account and have reviewed your activity. We’ve taken complementary measures as needed. Your account is safe now!
+
+In addition, we see that your gmail account is currently being used in Japan, according to Google service.
+
+This notice is in reference to your gmail account:
+
+Access Type	Tran Description
+Unknown	United States (907d:5b:41ce:2:230f:f22d:24b2:e4b)
+Browser	Japan (240d:1a:23ee:1:927d:e11a:13d1:a1e)
+Sometimes Google incorrectly detects the geographic location of a device, and it may just be detecting the wrong location.
+
+But for your security, please check your gmail activity.
+
+Regards,
+
+Loss Prevention Department",phishing ,"Adam Weidemann,Threat Analysis Group", ARCHIPELAGO,https://blog.google/threat-analysis-group/how-were-protecting-users-from-government-backed-attacks-from-north-korea/,sdfcuLPDepart@hotmail.com,2023,Account Security/Login,Automated account
+7,"Dear [redacted],
+
+Thanks for your quick reply.
+
+I'm so sorry for my late response. I had been very busy for a while.
+
+I'd like to give you some queries about the humanitarian issue for our TV discussion show in advance.
+
+Attached is an agenda of our interview. The attachment's password is VOA!@2019.
+
+How about Friday December 27th around 9:30 am?
+
+I hope you kindly consider. Thank you!
+A Merry Christmas to you.",phishing ,"Adam Weidemann,Threat Analysis Group", ARCHIPELAGO,https://blog.google/threat-analysis-group/how-were-protecting-users-from-government-backed-attacks-from-north-korea/,[redacted]@gmail.com,UNKNOWN,Journalistic Queries,1-on-1 communications 
+8,"Hello,
+
+This is [redacted] from the National Assembly of Korea.
+
+The National Assembly [redacted] is currently preparing a report by gathering expert opinions from domestic and international Korea analysts to better and more quickly assess and forecast international developments. For this purpose, we are reviewing major events and changes from the year 2022 and projecting the situation on the Korean Peninsula for 2023.
+
+The title of the report is: “Assessment of the Korean Peninsula Situation in 2022 and Outlook for 2023.”
+
+We are reaching out to invite your participation in this data request.
+
+The topic you contribute can relate to the 2022 Korean Peninsula outlook and may cover areas such as politics, diplomacy, or national defense — feel free to select the area you are most comfortable with.
+
+If you let us know in advance which field you'd like to contribute to, we will coordinate accordingly and provide specific next steps.
+
+As a side note, a modest honorarium of about 300,000 KRW (~$230 USD) has been set.
+
+Even if your schedule doesn't allow participation, we would appreciate a reply to assist with our process.
+
+Thank you.
+Sincerely,
+Kim [redacted]
+",phishing ,Ahn Lab,North Korean actor,https://asec.ahnlab.com/en/37396/,yeikyoeng@hanmail.net,2022,Event Speaker Invitation,1-on-1 communications 
+9,"Subject: Low Mailbox Storage, Please Upgrade..!NAVER Membership Info 
+
+Dear Naver users, your Naver mailbox is too small.
+Your storage is down to 5%. Please upgrade.
+
+If you do not upgrade your mailbox storage, you may not be able to send or receive new messages.
+Click the link below to upgrade your mailbox immediately.
+
+[Upgrade Now] [Yes]
+
+For more details, please check the Help Guide for ID assistance.
+We will continue doing our best to provide more convenient services.",phishing ,Ahn Lab,North Korean actor,https://asec.ahnlab.com/en/31301/,aikcmh70@naver.com,2022,Account or Service Upgrade ,Automated account
+10,"Subject: RFQ_DH6D_9407637
+Attachment: 구매 주문.html (Purchase Order.html) – 447 bytes
+Please check the attached file.
+
+This is not a product made with double-sided surfaces.
+
+Please do front-side machining for size measurement.
+
+Wishing you good luck.
+Mold Development Team Manager
+Lee Byung-jun",phishing ,Ahn Lab,North Korean actor,https://asec.ahnlab.com/en/37270/,choise623@hanmail.net,2022,Purchase Order,1-on-1 communications 
+11,"Subject: Flight ticket payment is complete ~ Confirmation
+Attachment: Air-Ticket 확인증.html (29 KB)
+
+Hello,
+
+This is an email sent to [name blurred].
+
+Regarding the project, we are sending the traveler’s personal details along with this notice; please refer to it for your work.
+Please check the attached PDF file for the ticket confirmation.
+
+Airfare ₩18,900 + Fuel surcharge ₩16,500 + Tax/other fees ₩4,000 + Issuance fee ₩1,000 = ₩40,400
+
+Download availability: 3 days (Download available for 3 days) – until 2022-11-29 (Asia/Seoul)
+
+Korean Air",phishing ,Ahn Lab,North Korean actor,https://asec.ahnlab.com/en/43510/,jhlee1@di-system.com,,Purchase Order,1-on-1 communications 
+12,"Subject: [Invitation] US Policy Toward North Korea Conference
+Dear <name of target expert>,
+I hope you and your family are enjoying a lovely holiday and a restful season.
+It is my privilege to invite you to provide a keynote address for a private workshop, hosted by the <name of legitimate think tank> to discuss the US policy toward North Korea. Given developments in North Korea since the collapse of US-DPRK and inter-Korean negotiations in 2019, as well as the changing strategic environment in East Asia, the traditional US approach to North Korea is unlikely to be effective going forward. It is time to question old assumptions and begin crafting a new strategy/approach that takes into consideration current strategic realities.
+We understand your schedule is quite busy, but we were hoping you could join us at least for that lunch (12:30–1:30pm EST). If you are able to join in person, we would cover your travel and accommodations to attend, and can provide you with a modest $500 speaker fee. If you are not available to join in person, we can accommodate remote participation as well.
+Please let me know if you might be willing to join us and we can provide more details about the event and logistics right away. I look forward to hearing from you soon.
+All the best,
+<name of legitimate think tank staff>",phishing ,FBI/ROK Joint Advisory,North Korean actor,https://www.ic3.gov/CSA/2024/240502.pdf,,2023,Event Speaker Invitation,1-on-1 communications 
+13,"Subject: [Request for opinion] (Article Invitation)
+Dear <think tank employee>,
+Hope you are doing well. On behalf of <another think tank>, it is my pleasure to invite you to write a 1,200-word piece on the recent NK’s provocation.
+North Korea’s latest missile launches, including the launch of an intermediate-range ballistic missile (IRBM) over Japan on October 4 and two short-range ballistic missiles (SRBMs) on October 6, provide a stark reminder of the numerous missile programs it is pursuing.
+Subject is as follows:
+1) Would Pyongyang conduct its next nuclear test soon after China’s Communist Party Congress in mid-October?
+2) May a quieter approach to North Korean aggression be warranted?
+3) Would Japan increase the defense budget and a more proactive defense policy?
+You can send me this by Oct 21. You can make your own title for your article. We can provide you with a small honorarium of around USD $480.00.
+I would really appreciate it if you can contribute.
+Best,
+<Redacted>
+Senior Fellow, <think tank>
+Director, <think tank>",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Dear%20,missile%20programs%20it%20is%20pursuing",,Oct 2022,Event Speaker Invitation,1-on-1 communications 
+14,"(Follow-up email to above invitation, with attachment)
+Thank you for agreeing to provide your opinion. Please find the attached files.
+We greatly appreciate your input. To ensure security in the face of increasing hacking activity, we have set a password (<password string>) for the attached file.
+We look forward to hearing your valuable feedback.",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20RE%3A%20RE%3A%20,Please%20find%20the%20attached%20files",,Oct 2022,Event Speaker Invitation,1-on-1 communications 
+15,"Subject: Re: Request for an interview
+Dear <name of foreign affairs expert>,
+Sorry for my late response because of the Prof’s busy time and thanks so much for replying with your kind answers. I did confer with <legitimate U.S. professor> about it and modified a bit. Please find the link below and let me know if you have any different opinions.
+<Drive link>
+PWD: <redacted>
+Best,
+< university student>",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=To%3A%20,you%20have%20the%20different%20opinions",,2023,Journalistic Queries,1-on-1 communications 
+16,"Subject: Your Password for <legitimate portal> Account Has Been Compromised
+We regret to inform you that we have detected an attempt to log into your account (<email address>) from an unauthorized application. The incident occurred on <date> at <time> (Korea Standard Time), and the IP address used was <IP address> located in Washington, U.S.
+In order to prevent any further unauthorized access to your account, we recommend that you change your password immediately. You can do this by clicking on the following link:
+<legitimate password-reset URL>
+Please note that if you fail to change your password, we may have to permanently delete or close your account in accordance with our security policy.",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20Your%20Password%20for%20,access%20to%20your%20account%2C%20we",,2023,Account Security/Login,Automated account
+17,"Subject: <name of legitimate Korean journal program>
+Greetings,
+My name is <name of writer>, and I am a writer for <name of legitimate Korean journal
+program>.
+I am writing to you today because I am currently preparing for a program related to North
+Korean issues. Professor <name of professor> of <actual Korean university>, whom I
+contacted earlier, recommended you as an expert on this issue. I would be grateful if you
+could spare some time to answer a few questions.
+Thank you for considering my request. I look forward to hearing from you soon.
+Best regards,",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,whom%20I",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+18,"Subject: <name of legitimate Korean journal program>
+Dear <name of expert>
+,
+As promised, I am sending you a questionnaire. It would be greatly appreciated if you could
+answer each question in 4-5 sentences. Thank you for your cooperation.
+Best regards,
+@ attached file: [<name of legitimate Korean journal program>] questionnaire.docx",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20RE%3A%20RE%3A%20,questionnaire.docx",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+19,"Subject: <name of legitimate Korean think tank institute> Request for survey
+Hello,
+I am <name of an academic scholar> from <name of legitimate Korean think tank>.
+I am reaching out to ask if you would be willing to participate in a survey on North Korea’s
+nuclear development titled, “A survey on the perception on experts on the advancement of
+North Korean nuclear weapons and the denuclearization of the Korean Peninsula”. Our goal
+is to find ways to resolve North Korean nuclear issues and achieve denuclearization on the
+Korean Peninsula. Rest assured that all answers will be kept confidential and used solely for
+research purpose. As a token of appreciation, we would like to offer 300,000 won to those
+who participate in the survey. If you’re interested in participating, please reply to this
+message, and we will send you the survey questionnaire. Looking forward to hearing from
+you soon.
+Best regards,",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+20,"Subject: <name of legitimate Korean think tank institute> Request for survey
+Thank you for your response.
+We will send you a document form for payment, which includes a personal information
+usage agreement. If possible, please fill out your affiliation, name, ID number, bank account,
+and signature, and attach copies of your bankbook and ID card.
+Best regards,
+P.S. The attached document is password-protected, and I will send you the password in a
+‘password.txt file’
+@ attached file: PersonalInformationUsageAgreement",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+21,"Greetings,
+I hope you've been well! This is <name of real journalist> with <legitimate U.S. news
+organization>.
+North Korea Fires Powerful Missile on 4 Oct using Old Playbook in a New Worlds. The last
+time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was
+president and Kim Jong-un seemed intent on escalating conflict with Washington.
+I have some questions regarding this:
+1) Would Pyongyang conduct its next nuclear test soon after China’s Communist Party
+Congress in mid-October?
+2) May a quieter approach to North Korean aggression be warranted?
+3) Would Japan increase the defense budget and a more proactive defense policy?
+I would be very grateful if you could send me your answers within 5 days.
+Have a good weekend.
+Sincerely,
+<name of legitimate journalist>",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+22,"Subject: Your Password for <legitimate portal> Account Has Been Compromised
+We regret to inform you that we have detected an attempt to log into your account (<email address>) from an unauthorized application. The incident occurred on <date> at <time> (Korea Standard Time), and the IP address used was <IP address> located in Washington, U.S.
+In order to prevent any further unauthorized access to your account, we recommend that you change your password immediately. You can do this by clicking on the following link:
+< password-reset URL>
+Please note that if you fail to change your password, we may have to permanently delete or close your account in accordance with our security policy.",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+23,"Dear <think tank employee>,
+Hope you are doing well. On behalf of <another think tank>, it is my pleasure to invite you
+to write a 1,200-word piece on the recent NK's provocation.
+North Korea’s latest missile launches, including the launch of an intermediate-range ballistic
+missile (IRBM) over Japan on October 4 and two short-range ballistic missiles (SRBMs) on
+October 6, provide a stark reminder of the numerous missile programs it is pursuing.
+Subject is as follows:
+1) Would Pyongyang conduct its next nuclear test soon after China’s Communist Party
+Congress in mid-October?
+2) May a quieter approach to North Korean aggression be warranted?
+3) Would Japan increase the defense budget and a more proactive defense policy?
+You can send me this email by Oct 21. You can make your own title for your article. We can
+provide you with a small honorarium of around USD 480.00.
+I would really appreciate it if you can contribute.
+Best,
+<Redacted>
+Senior Fellow, <think tank>
+Director, <think tank>",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+24,"Title: <legitimate Investigator> of <legitimate investigation agency>.
+I am <legitimate Investigator> of <legitimate investigation agency>.
+I’m writing to inform you that someone has published content on YouTube using your email
+account that violates the National Security Law.
+Link: https:// HYPERLINK ""https://%3cyoutube/""< HYPERLINK
+""https://%3cyoutube/""YouTube video link>. The video was posted on <Date: 0000. 0. 00.>
+by <target>
+We also suspect that the same user has posted content that slanders North Korean
+defectors. We need your cooperation to identify the real publisher of these posts.
+1. Provide us with your computer media access control address (MAC address) and
+Ethernet hardware address, as they are needed to track any illegal access to your email
+account.
+2. If you cannot locate these addresses in your computer system, please run the program
+below and send us the resulting document: <check tool.zip>
+3) Please respond to this email within 24 hours and delete it immediately after sending your
+reply.
+Thanks you for your cooperation",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Account Security/Login,1-on-1 communications 
+25,"Subject: Notification regarding your fraudulent account registration
+This is the <legitimate portal site> operation team, and we regret to inform you that your ID
+<redacted> has been registered as a fraudulent account. To prevent any further harm, we
+recommend that you take immediate action.
+We kindly request you to verify your identity as soon as possible to ensure the safety and
+security of your account. You can do this by visiting the member information page and
+checking the registered name. We also advise you to change your password to keep your
+account protected. Please be aware that the fraudulent account registration occurred on
+00:00, 00/00/0000.
+To unlock your account, please follow the link provided below:
+<unlock your account: link>
+Thank you for choosing <legitimate portal site> as your trusted ",phishing ,FBI/ROK Joint Advisory,Kimsuky ,"https://content.govdelivery.com/attachments/USSTATEBPA/2023/06/01/file_attachments/2514954/Joint_CSA_NK_Using_Social_Engineering_20230531.pdf#:~:text=Title%3A%20,Korean%20nuclear%20issues%20and%20achieve",,UNKNOWN,Account Security/Login,Automated account
+26,"Dear Fellow Americans,
+
+We are going through unprecedented times because of Covid-19 pandemic.
+
+Your Federal Government wants to reassure you we are with you in this difficult time.
+
+We have created Direct-pay Government Benefits schemes, which can provide you support up to $1000 per person in your family. We recommend you update your personal and bank details using link [<URL>]
+
+Direct-pay benefit program is on top of grant schemes: Supplemental Nutrition Assistance Program (SNAP), Subsidized Housing, Housing Voucher and Public Housing program, Welfare or Temporary Assistance for Needy Families (TANF)
+
+Under direct payment schemes all USA citizens will get $1000 into their bank accounts, if you don't have access to you bank, a cheque will send to your communication address. 
+
+Regards, USDA, United States",phishing ,CYFIRMA,North Korean actor,https://www.cyfirma.com/early-warning/global-covid-19-related-phishing-campaign-by-north-korean-operatives-lazarus-group-exposed-by-cyfirma-researchers/,UNKNOWN,2020,Government assistance ,Government communications
+27,"Sir/Madam,
+
+Today HM Treasury announced a number of measures designed to support businesses. The Chancellor set out a package of temporary, timely and targeted measures to support public services, people and businesses through this period of disruption caused by Covid-19.
+
+The joint HM Treasury and Bank of England lending facility, named the Covid Corporate Financing Facility (CCFF). The facility is designed to support liquidity among larger firms, helping them to bridge coronavirus disruption to their cash flows through the purchase of short-term debt in the form of commercial paper.
+
+You can register your business by clicking the link below [<attached URL>]
+
+Last date to register your business is 26 June 2020 by 2pm.
+
+Thank you very much, Bank of England, Threadneedle Street, London, EC2R 8AH, Switchboard: +44(0)20 3461 4444, Enquiries: +44(0)20 3461 4878",phishing ,CYFIRMA,North Korean actor,https://www.cyfirma.com/early-warning/global-covid-19-related-phishing-campaign-by-north-korean-operatives-lazarus-group-exposed-by-cyfirma-researchers/,UNKNOWN,2020,Government assistance ,Government communications
+28,"Dear Citizens,
+
+The ministry of health and family welfare, government of India has announced a mandatory COVID-19 testing for all residents of Delhi, Mumbai, Hyderabad, Chennai and Ahmedabad above age of 40 years.
+
+Government of India has decided to reimburse testing cost incurred.
+
+A medical staff will come to your residence to collect samples.
+
+Please immediately register using link below for all free COVID-19 test. Do not forget to provide complete contact details with PAN no.
+
+link [<URL>]
+
+Thank you for your support in keeping India's fight against COVID-19.
+
+Thank You: Ministry of Health and Family Welfare (MOHFW) Nirman Bhavan, Maulana Azad Road New Delhi 110011",phishing ,CYFIRMA,North Korean actor,https://www.cyfirma.com/early-warning/global-covid-19-related-phishing-campaign-by-north-korean-operatives-lazarus-group-exposed-by-cyfirma-researchers/,UNKNOWN,2020,Government assistance ,Government communications
+29,"Dear Ms. [Redacted],
+
+I’m a sophomore at the University of Southern California and am very interested in graphic design of digital productions. Mr. [Redacted] suggested that I contact you.
+
+Sony Pictures Entertainment has a reputation for excellence, and your commitment to innovative and creative design is near and dear to my heart.
+
+I am a top student in my design program, am maintaining a 4.0 GPA, and have received a merit scholarship every semester since matriculating. I am confident that I can be an asset to your company.
+
+I would be appreciated if you could view my resume and portfolio.
+Here is the link http://ldrv.ms/1cgvRPGx
+
+I look forward to hearing from you.
+
+Sincerely,
+Christina Karsten",phishing ,CYFIRMA,North Korean actor,https://reliaquest.com/blog/indictment-of-north-korean-regime-backed-programmer/,lazarex@outlook.com,2020,Job Offer/Opportunity,1-on-1 communications
+30,"Hello,
+Please check the document below regarding Jeong Jin-il's career and briefly fill out the form.
+
+The maximum salary for the New Business Development team is up to 300 million KRW.
+Thank you.
+
+<1 attachment: samsung.rar>",phishing ,Security Affairs,North Korean actor,https://securityaffairs.com/125071/apt/north-korea-zinc-targets-security-firms.html,UNKNOWN,2021,Job Offer/Opportunity,1-on-1 communications
+31,"Subject: Check the app document that has arrived for you.
+
+A new notification has arrived.
+Hello, Member
+An important electronic document has arrived for you. Please check the newly arrived documents in the electronic document home. If the verification period has passed, you will not be able to check the document, so please be sure to check it within the deadline.
+
+Sender: National Secretary
+Viewing Deadline: Until October 31, 2023
+
+[Link redacted in the original email]
+
+To Electronic Document Home",phishing ,Naver,North Korean actor,https://cybersecuritynews.com/malwareless-url-phishing-attacks/,@mrj.biglobe.ne.jp,UNKNOWN,Government assistance ,Government communications
+32,"Hello, this is the secretary from Representative Tae Young-ho’s office.
+Thank you very much for taking time out of your busy schedule yesterday to join the seminar and for sharing your valuable thoughts. It was a very productive meeting thanks to you.
+
+I know it’s a bit of a hassle, but if you could summarize yesterday's remarks in about one A4 page and send them to me, it would be a great help for the preparation of the meeting.
+Also, those who attended yesterday, please make sure to submit the conference fee forms as instructed. However, the deputy director is required to send it back in the prescribed format. I would appreciate it if you could reply to me once it’s done.
+
+Password: nrnghl
+
+Once the materials are compiled, I will prepare the case review next week.
+I hope to meet again soon.
+
+Have a great weekend.
+Thank you.
+
+Best regards,
+
+Attachment: Government Document Download Period (2022-05-07~2022-05-22)
+[Attachment Name]: [File1]Seminar_Materials_Results.docx 48 KB
+Malicious program with PC control and information leakage functions
+
+",phishing ,Korean JoongAng Daily,North Korean actor,https://koreajoongangdaily.joins.com/2022/12/26/national/northKorea/Korea-North-Korea-hacking/20221226182704052.html,UNKNOWN,2022,Job Offer/Opportunity,Government communications
+33,"Your active cooperation is requested.
+
+Attachment:
+(Submission) Application Form.hwp (231.3 KB)
+
+Hello,
+This is the 담당자 (person in charge) of the Ministry of Unification's Dispersed Families Information System (RSS).
+
+As you may know, the Ministry of Unification is conducting a nationwide survey of separated families between the North and South. (June 11 to August 10)
+
+Types of Application
+New Application: Can apply as an individual or as a family of one or more members from a separated family.
+
+Applicants from the Korean War and post-war North-South families, as well as North Korean defectors, are also eligible to apply.
+Change of Application: Applicants who have changed their address or contact information.
+Cancellation Application: Applicants who no longer wish to receive news or interact with separated families.
+The applications submitted will be forwarded to the Korean Red Cross, and all data received through other application methods will be registered and preserved in the ""Separated Family Information System"" database. It will be used for selecting candidates for inter-Korean family reunions in coordination with the North-South authorities.
+
+Please share this attachment within your organization.
+
+Please send it by email by 12:00 AM on Friday, August 10.
+
+Thank you.",phishing ,X,North Korean actor,https://x.com/issuemakerslab/status/1014085335439953920/photo/1,UNKNOWN ,2018,Government assistance ,Government communications
+34,"Subject: Coronavirus disease (COVID-19) Important Communication.
+
+Attachment: COVID 19 - WORLD HEALTH ORGANIZATION CDC_DOC.zip.arj (371 KB)
+
+Due to the high volume of misinformation being spread about the Coronavirus disease (COVID-19) pandemic, we put together a comprehensive document that contains guidelines & WHO recommendations. This document contains:
+
+Guide to local production of WHO-recommended Handrub Formulations.
+Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected.
+Infection Prevention and Control for the safe management of a dead body in the context of COVID-19.
+IPC guidance for long-term care facilities in the context of COVID-19.
+Consideration for quarantine of individuals in the context of containment for coronavirus disease (COVID-19).
+Health workers exposure risk assessment and management in the context of COVID-19 virus.
+Rational use of personal protective equipment for coronavirus disease (COVID-19).
+Advice on the Use of Masks.
+Home care for patients with suspected novel coronavirus (nCoV) infection presenting with mild symptoms and management of contacts.
+Q&A on infection prevention and control for healthcare workers caring for patients with suspected or confirmed 2019-nCoV.
+For any questions related to COVID-19 and infection prevention and control (IPC), please contact: WHOipc@who.int
+
+Centre for Disease Control (CDC)
+World Health Organization",phishing ,Bank Info Security,North Korean actor,https://www.bankinfosecurity.com/spear-phishing-campaign-uses-covid-19-to-spread-lokibot-a-14058,UNKNOWN ,2020,Government assistance ,Government communications
+35,"Dear Citizen,
+
+Due to the ongoing impact of the COVID-19 pandemic, our government has introduced financial assistance programs that will provide help to you.
+
+Additionally, over the past few months, we have launched the ""Work Support Program (MOM)"" designed to assist your family, and today a new supplementary program (JSS) has been introduced, which provides up to $750 per company for employees to receive as the first installment.
+",phishing ,CYFIRMA,North Korean actor,https://reliaquest.com/blog/indictment-of-north-korean-regime-backed-programmer/,lazarex@outlook.com,2020,Job Offer/Opportunity,1-on-1 communications
+36,"Dear Citizens in Korea,
+
+In March 2020, the government’s new policy regarding support for businesses, along with welfare department (MOM) updates, has been announced. This specific update allows for citizens from other regions to receive up to 100,000 KRW depending on the situation.",phishing ,CYFIRMA,North Korean actor,https://reliaquest.com/blog/indictment-of-north-korean-regime-backed-programmer/,lazarex@outlook.com,2020,Job Offer/Opportunity,1-on-1 communications
+37,"Members of the Singapore Business Association,
+
+Thank you for your long-term support during the COVID-19 phase shutdown. We understand the hardships and difficulties you have faced over the past two months or more, which have hindered you from running your business.
+
+Over the past few months, we have announced many business partnership programs supported by the Singapore government. Additionally, the Ministry of Manpower (MOM) in Singapore today announced a new financial plan that provides a one-time subsidy of $750 for each company.",phishing ,CYFIRMA,North Korean actor,https://reliaquest.com/blog/indictment-of-north-korean-regime-backed-programmer/,lazarex@outlook.com,2020,Job Offer/Opportunity,1-on-1 communications
+38,"Subject: Singapore Specialist: Corona Virus Safety Measures
+
+Dear Sir,
+
+Go through the attached document on safety measures regarding the spreading of coronavirus. This little measure can save you.
+
+Use the link below to download <URL>
+
+Safety Measures.pdf
+
+Symptoms: Common symptoms include fever, cough, shortness of breath, and breathing difficulties.
+
+Regards
+Dr [Name Redacted]
+Specialist, Wuhan-virus-advisory",phishing ,Wired,North Korean actor,https://www.wired.com/story/coronavirus-phishing-scams/,@who-pc.com,2020,Government assistance ,Government communications
+39,"Subject: Coronavirus (2019-nCoV) Safety Measures
+Dear Sir/Madam,
+
+Go through the attached document on safety measures regarding the spreading of coronavirus.
+
+This little measure can save you.
+
+WHO is working closely with global experts, governments and partners to rapidly expand scientific knowledge on this new virus and to provide advice on measures to protect health and prevent the spread of this outbreak.
+
+Symptoms to look out for; Common symptoms include fever, cough, shortness of breath, and breathing difficulties.
+
+Regards
+[Name Redacted]
+General Internist
+Intensive Care Physician
+WHO Plague Prevention & Control",phishing ,BBC,North Korean actor,https://www.bbc.com/news/technology-51838468,UNKNOWN,2020,Government assistance ,Government communications
+40,"Subject: Impending Abandonment of the US-DPRK
+
+Attachment: 03-02.doc
+
+Good morning,
+We are sending materials on the situation on the Korean Peninsula.
+
+Best regards,
+UN Security Council Sanctions Division",phishing ,Security Affairs,North Korean actor,https://securityaffairs.com/108979/apt/north-korea-hit-un-security-council.html,unscsanctions@mail.ru,2020,Journalistic Queries,1-on-1 communications
+41,"Dear Customer:
+
+We noticed some suspicious activities in your account and have reviewed your activity. We’ve taken complementary measures as needed. Your account is safe now!
+
+In addition, we see that your gmail account is currently being used in Japan, according to Google service.
+
+This notice is in reference to your gmail account:
+
+Access Type | Tran Description
+Unknown | United States (907d:5b:41ce:2:230f:f22d:24b2:2:4b)
+Browser | Japan (240d:1a:23ee:1:927d:e11a:13d:1a1e)
+
+Sometimes Google incorrectly detects the geographic location of a device, and it may just be detecting the wrong location.
+
+But for your security, please [check your gmail activity <URL>].
+
+Regards,
+Loss Prevention Department",phishing ,The Record,North Korean actor,https://therecord.media/north-korea-hackers-impersonate-journalists-google,sdfculPDepart@hotmail.com,2023,Account Security/Login,Automated account
+42,"Subject: Unification and North Korea Academic Conference_Review Documents
+
+Hello,
+
+This is the Secretariat of the Korea Global Forum 2016.
+
+Our Unification and North Korea Academic Conference has received much support from many applicants, and we sincerely thank you for your interest.
+
+On September 3 (Saturday), we will circulate the results of the joint review, and on September 5 (Monday) to September 7 (Wednesday), we will send out the review results.
+
+Those who submitted papers will be provided with a modest honorarium.
+
+Thank you.
+
+Korea Global Forum 2016 Organizing Committee
+Seoul, Mapo-gu, Sinchon-ro 4gil 5-20, Yonsei University Unification Institute
+TEL: 02-2123-4892 / E-MAIL: kgf2016@yonsei.ac.kr
+",phishing ,Cisco,North Korean actor,https://blog.talosintelligence.com/korea-in-crosshairs/,kgf2016@yonsei.ac.kr,2018,Job Offer/Opportunity,Automated account
+43,"Subject: Request for comments
+
+Greetings,
+I hope you’ve been well! This is <redacted> with <redacted>.
+North Korea Fires Powerful Missile on 4 Oct using Old Playbook in a New Worlds. The last time Pyongyang launched a weapon over Japan was in 2017, when Donald J. Trump was president and Kim Jong-un seemed intent on escalating conflict with Washington.
+
+I have some questions regarding this:
+
+Would Pyongyang conduct its next nuclear test soon after China’s Communist Party Congress in mid-October?
+May a quieter approach to North Korean aggression be warranted?
+Would Japan increase the defense budget and a more proactive defense policy?
+I would be very grateful if you could send me your answers within 5 days.
+Have a good weekend.
+
+Sincerely,
+<redacted>",phishing ,Office of Information Security,North Korean actor,https://www.hhs.gov/sites/default/files/dprk-chinese-cyber-crime-threats-us-hph.pdf,<redacted>@voanews,2022,Journalistic Queries,1-on-1 communications
+44,"Subject: [No Subject]
+
+Dear B,
+
+We would like to inform you that your Bitcoin payment for $120.00 has been added into your Namecheap account. You can now use the account balance to purchase or renew products on Namecheap.com.
+
+Username: BRoyal1990
+Transaction Id: 82073030
+Transaction Ref: GKRwiyWiTTUXreqpvxNv:4A
+Amount: $120.00
+
+You can find more information about this transaction on our Add Funds History page located at https://manage.www.namecheap.com/myaccount/reports/funds-report.asp.
+
+If you have any questions, please contact our support at http://www.namecheap.com/support.
+
+Thank you.
+
+Namecheap.com Support",phishing ,Office of Information Security,North Korean actor,https://www.hhs.gov/sites/default/files/dprk-chinese-cyber-crime-threats-us-hph.pdf,<redacted>@voanews,2022,Purchase Order,1-on-1 communications
+45,"Subject: DPRK FINAL
+I would appreciate it if you could inform me of the receipt and also share your opinion.
+
+https://policy.carnegieinsider.com
+
+Signature:
+
+Best regards,
+Prof. Georgy Toloraya,
+Chair of Project Analysis, ""Russkiy Mir"" Foundation
+Executive Director, Russian National Committee on BRICS Research
+Director, Asian Strategy Center, Institute of Economics, Russian Academy of Science
+http://nkiBRICS.ru",phishing ,Proofpoint,North Korean actor,https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf,georgy.toloraya@gmail.com,2021,Journalistic Queries,1-on-1 communications
+46,"Subject: North Korea test-fired two missiles in the early hours of Sunday morning
+
+Dear colleague,
+
+Chad O'Carroll here, the founder of Korea Risk Group, which produces NK PRO – a North Korea resource for professionals.
+A lot of people have been asking me about the below article.
+Looking forward to hearing from you!
+
+http://pronto-login.info
+
+Thanks,
+Chad O'Carroll
+Chief Executive Officer
+Korea Risk Group
+chad.ocarroll@nknews.org",phishing ,Proofpoint,North Korean actor,https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf,georgy.toloraya@gmail.com,2021,Journalistic Queries,1-on-1 communications
+47,"Dear colleague,
+Chad O'Carroll here, the founder of Korea Risk Group, which produces NK PRO – a North Korea resource for professionals.
+Just sharing recent articles with you, which you might find of interest.
+Feel free to share with colleagues/friends.
+<html attachment>
+In the meantime, I wish you all the best.
+Thanks,
+Chad O'Carroll
+Chief Executive Officer
+Korea Risk Group
+cell KR [Phone Number Redacted]
+cell USA [Phone Number Redacted]
+office USA [Phone Number Redacted]",phishing ,Proofpoint,North Korean actor,https://www.nknews.org/2022/04/north-korean-hackers-steal-ex-intelligence-officials-emails-in-malware-attack/,chad.ocarroll@bk.ru,2022,Journalistic Queries,1-on-1 communications
+48,"Hello!
+
+I am driving to the [Redacted] office, but I’m late. Excuse me.
+I have to show you this presentation (PDF-preview) before 3 p.m.
+Check it please: https://presentation-pdf-02-03-21.gr8.com (copy and paste to browser). I will be soon.
+
+With respect,
+[Redacted]
+Sent from iPhone",phishing ,Bank Info security,North Korean actor,https://www.bankinfosecurity.com/spear-phishing-campaign-distributes-nim-based-malware-a-16176,UNKNOWN,2021,Other,1-on-1 communications
+49,"Dear Customer,
+
+Your Apple ID was locked due to security reasons.
+We have detected a sign‑in from an unknown device and an unusual activity from your
+Account.
+
+Please verify your identity within 24 hours or your account will be disabled due to
+Concerns we have for the safety and integrity of the Apple Community.
+Use this link appleid.apple.com to verify your account.
+
+Sincerely,
+Apple Support",phishing ,Palo Alto Networks,North Korean actor,https://unit42.paloaltonetworks.com/phishing-trends-with-pdf-files/,UNKNOWN,2021,Account Security/Login,Automated account
+50,"I am writing to inquire as to whether you would be interested in reviewing a manuscript that we are considering publishing. It is entitled ""NK nuclear threat"". Given your expertise, your views on this proposal would be extremely helpful.
+
+If you would like to take this on, please let me know, and I will send you over a complete draft script.
+
+[...]
+
+Thank you for your time and I look forward to hearing from you soon.
+
+With best wishes,
+[Redacted]
+",phishing ,Sentinel Labs,North Korean actor,https://www.sentinelone.com/labs/kimsuky-new-social-engineering-campaign-aims-to-steal-credentials-and-gather-strategic-intelligence/,UNKNOWN,2023,Journalistic Queries,1-on-1 communications
+51,"Some of your saved passwords were found online
+	<redacted email>
+Some of your saved passwords were found in a data breach from a site or app that you use. Your Google Account is not affected.
+
+To secure your accounts, Google Password Manager recommends changing your passwords now.
+
+Check passwords
+You can also see security activity at
+https://myaccount.google.com/notifications",legitimate,My email,My email,My email,no-reply@accounts.google.com,2024,Account Security/Login,Automated account
+52,"A new sign-in to your Google Account was detected on a Linux device. If this was you, you don’t need to do anything. If not, we’ll help you secure your account. Check activity to verify the sign-in. You can also see recent security activity at your Google Account’s notifications. You received this email to inform you of important changes to your Google Account and services",legitimate,Email archive (shipwright-admin list),Google,"https://lists.shipwright.io/archives/list/shipwright-admin@lists.shipwright.io/2022/7/#:~:text=%5Bimage%3A%20Google%5D%20A%20new%20sign,Mountain%20View%2C%20CA%2094043%2C%20USA",no-reply@accounts.google.com,UNKNOWN,Account Security/Login,Automated account
+53,"Your Google account password was just changed. If you made this change, you can safely ignore this email. If you didn’t, you should recover your account immediately to secure your account. You can also see security activity at your Google Account’s notifications page. You received this email to let you know about important changes to your Google Account.",legitimate,Email archive (shipwright-admin list),Google,"https://lists.shipwright.io/archives/list/shipwright-admin@lists.shipwright.io/2022/7/#:~:text=,LLC%2C%201600%20Amphitheatre%20Parkway%2C%20Mountain",no-reply@accounts.google.com,UNKNOWN,Account Security/Login,Automated account
+54,"Welcome back to your account – it has been recovered successfully. If you suspect you were locked out because of changes made by someone else, you should review and protect your account. Review your account to check for any unauthorized changes. You received this email to let you know about important changes to your Google Account and services",legitimate,Email archive (shipwright-admin list),Google,"https://lists.shipwright.io/archives/list/shipwright-admin@lists.shipwright.io/2022/7/#:~:text=,Mountain%20View%2C%20CA%2094043%2C%20USA",no-reply@accounts.google.com,UNKNOWN,Account Security/Login,Automated account
+55,"Dear Leah Weil,
+
+ 
+
+Following on from a phone conversation with your assistant, I would like to invite you to participate in the Hogan Lovells Cross-Border Disputes study. Details of the project are provided below.
+
+My company Acritas has been commissioned by Hogan Lovells to carry out this study on their behalf to capture intelligence relating to trends and best practice in handling cross-border disputes. If you have been involved in any cross-border disputes in the past two years, and have any insight into this subject matter, we would value any thoughts and insight that you could provide us.
+
+ 
+
+I was hoping that I could schedule a 12-15 minute phone call with yourself to gather your perceptions on this subject matter when ever is most convenient for yourself.  The answers you provide will be confidential and the interview will be conducted to MRS standards, and as a thank you for taking part I can offer you a detailed report based on the findings from this body of research once final analysis has been carried out, exclusively available to those who have contributed.    
+
+ 
+
+If you could let me know whether you would be interested in taking part, and if so when would be best to contact you, I would be very grateful.
+
+ 
+
+Email    dlowe@acritas.com or
+
+Call       +44 (0) 191 209 6918
+
+ 
+
+All responses are confidential; they will be reported in combination with other studies and will not be linked to you or the organisation you represent without your consent. Acritas is a business research specialist, abiding by the Market Research Society’s Code of Conduct. Any information you or your colleagues are willing to provide us with will be treated in accordance with the Market Research Society’s Code of Conduct of and the Data Protection Act. There will be no sales follow-up as a result of your participation.
+
+Daniel Lowe
+
+Researcher | T: +44 (0) 191 209 6918 |
+
+ACRITAS
+
+LONDON | NEW YORK | NEWCASTLE
+
+Our new report, which reveals the reasons why clients hire and fire law firms, is out now. To order your copy of ‘Winning and Losing Business’ or to find out more, contact research@acritas.com
+     
+
+All communications to the firm are treated confidentially; please do the same with this message (and any file or attachment transmitted with it). This message may also be subject to legal privilege or otherwise protected from disclosure. If you are not the intended recipient, you have received this message in error and any use of it is prohibited. Please notify us if you have received this email in error by return email and delete the original message from your server. Acritas reserves the right to read without notice any email or attachment entering or leaving its systems for quality control purposes. Acritas has taken reasonable precautions to minimise the risk that software viruses are attached to this email but accepts no liability for damage caused by them. Acritas recommends that you carry out your own virus checks before opening any attachment.
+
+Company Registration No. 4587274  Place: England  VAT No. 804835235
+Registered Office: Citygate St James Boulevard Newcastle upon Tyne NE1 4JE
+
+Scanned
+
+Attachments:
+        image001.png (4955 Bytes)
+        image002.png (5283 Bytes)",legitimate," WikiLeaks
+",Sony ,"https://wikileaks.org/sony/emails/emailid/101508#:~:text=Following%20on%20from%20a%20phone,the%20project%20are%20provided%20below",dlowe@acritas.com,UNKNOWN,Event Speaker Invitation,1-on-1 communications 
+56,"Dear Prof Kapila, I am writing on behalf of the GASOC to invite you to speak at our annual international conference which is taking place in Manchester, UK, on the 19th October 2024. The title of the conference is ""Creating solutions in a changing world"" with focus on humanitarian and disaster surgery in the context conflict, instability and crises. We have actually collaborated before as I was a founding member of the Manchester Global Health Society alongside Omer Ali where you kindly supported us through our first few years and delivered some fantastic lectures at MGHS events. We also crossed paths at HCRI where I completed my masters. I thought you would be an excellent key note speaker for our conference to give an overview of the current humanitarian climate and your thoughts on the future to open our conference. As the conference is in Manchester this year we have also managed to get representatives from HCRI and UkMed onboard (including Dr Tony Redmond). GASOC is a UK & Ireland based professional body that represents over 1400 surgical, anaesthetic and obstetric trainees with a global following online. The conference is mainly aimed at surgical and anaesthetics trainees and is a hybrid format with 100-150 in-person attendees and 300-400 online attendees (mainly from LMICs). Please let me know if you are interested as we would be very keen to have your experience and insight for this conference. If you are available and willing to speak I can provide you with more details. We look forward to hearing from you. Best wishes, Joe Dr Joseph Watson Anaesthetics Trainee, Mersey GASOC Treasurer and Co-lead of Conference 2024",legitimate,Mukesh Kapila,"Global Anaesthesia, Surgery and Obstetric Collaboration (GASOC)","https://www.mukeshkapila.org/contact-form-data/#:~:text=conferencegasoc%40gmail,an%20overview%20of%20the%20current",conferenceGASOC@gmail.com,UNKNOWN,Event Speaker Invitation,1-on-1 communications 
+57,"Subject: Interview Request – The Yale Politic​
+
+Dear Professor Podesta,
+My name is Justin Katz and I am a student at Yale University, where I am an Associate Editor of Yale’s political magazine, The Politic. We frequently feature interviews with public officials, scholars, and authors, and I am writing to you today because I am wondering if one of our staff writers could speak with you over the phone for an interview. We would love to discuss your career in government, transition to the Center for American Progress, and maybe even some of your favorite bands. Here’s a little background on our magazine: The Politic is Yale’s undergraduate political publication. Since 1947, we have been an outlet for the politically inclined on Yale’s campus, with past editors-in-chief including Fareed Zakaria, Gideon Rose, and Robert Kagan. We publish four times a year, featuring long-form investigative articles. We pride ourselves on speaking with this country’s—and the world’s—foremost public servants, policy makers, and intellectuals. In the past, The Politic has interviewed President Obama, Secretary Kerry, President Zedillo of Mexico, and many more. We recently concluded the largest and most rewarding project in our history, interviewing over 100 United States Ambassadors in a series entitled “Diplomatic Discourse,” which has received international attention, from the U.S. Department of State to media outlets worldwide. We would be grateful for any amount of time that you could offer in the next month or so – we realize how busy your schedule is. I look forward to hearing back from you if this is possible, and I hope you are having a great week. Sincerely,
+Justin Katz
+Ezra Stiles College ’18, Yale University (contact phone number redacted)​",legitimate,Yale,Wikileaks,"https://www.wikileaks.org/podesta-emails/emailid/27266#:~:text=From%3Ajustin,Request%20–%20The%20Yale%20Politic",UNKNOWN,2015,Journalistic Queries,1-on-1 communications 
+58,"Dear Dr. Kaminski, I am writing to formalize your invitation to attend, participate, and speak in the SIAM Southwest Regional Mathematics in Industry Workshop. A time span of thirty minutes is being allotted to invited talks with an additional ten minutes or so for discussion. The workshop, funded under the auspices of a National Science Foundation grant to SIAM will not be a standard applied mathematics event with representatives from industry, academe, and governmental agencies presenting their latest research results. Instead the meeting will emphasize the mathematics and technology currently applied to the projects of industry and governmental laboratories. Additionally the event will focus upon the mechanisms facilitating interaction and collaboration between the academy, industry, and government laboratories.  The workshop will be held at the University of Houston Hilton Hotel, April 27-28. Funds will be available to support both travel expenses and the cost of food and lodging of invited speakers. We will be happy to make travel arrangements on this end if so desired.  We hope that you can accept our invitation. If this is the case please furnish us with a title, a short abstract, and a list of the necessary equipment for your presentation.  We look forward to seeing you at the University of Houston.    Sincerely   W. Fitzgibbon",legitimate,Enron Corporation email archive,University of Houston,https://huggingface.co/datasets/LLM-PBE/enron-email,fitz@math.uh.edu,UNKNOWN,Event Speaker Invitation,1-on-1 communications 
+59,"Dear Google User,
+
+We are writing to inform you of a technical issue caused by a software 
+update, which affected Google+ APIs (Application Programming Interfaces) 
+between November 7th, 2018 PT and November 13th, 2018 PT when the issue 
+was fixed. We have determined that the impact of this technical issue was 
+limited to Google+ APIs that return profile information about users and 
+resulted in two potential unintended effects:
+
+-If you granted an app permission to view your profile information, 
+such as name, email address, occupation, the app inadvertently was able 
+to request and view more profile fields than you granted the app 
+permission to view.
+
+-If a person with whom you had shared profile information granted an app 
+permission to view your public profile fields, that app was able to 
+request and view your public profile fields, as intended, but 
+inadvertently was also able to request and view any profile fields you 
+had shared with that person, including profile fields that you had sharedwith that person but not shared publicly.
+
+This issue was limited to profile fields and did not give developers 
+access to information such as financial data, national identification 
+numbers, passwords, or similar data typically used for fraud or identity 
+theft.
+
+The issue was detected by our automated testing and fixed on November 13th
+2018 PT. We have no evidence that the app developers who inadvertently 
+had this access for six days were aware of it or misused it in any way.
+
+For your information, we are attaching a list of the affected fields and 
+the corresponding app names (where available). For a list of all 
+third-party apps you have granted access to your account, please review 
+your security preferences - Third-party apps with account access.
+
+Please note that this issue was discussed in the Google+ blog post dated 
+December 10th, 2018.
+
+We would like to sincerely apologize for any inconvenience this may have 
+caused. If you have any questions please contact us via this form.
+
+Sincerely,
+
+The Google Apps Team",legitimate,Google ,Linkedln,https://www.linkedin.com/pulse/google-data-leak-email-rewrite-alexis-dockery-mba/,<noreply-google-plus@google.com>,2019,Account Security/Login,Automated account
+60,"Subject: Interview Request – The Times of India (Feature Story)
+Dear Mr. Gautier, I would like to interview you for an article that I am writing for The Times of India. Would it be possible for me to send you some questions about how you developed your passion for India and your work in this field? My contact details are below in case you have any questions or need clarifications. Thank you and I look forward to your response.*
+Regards,
+Himanshi Dhawan
+Senior Assistant Editor, The Times of India
+Phone: +91-98XXXXXXX",legitimate,François Gautier’s blog,Times of India,https://francoisgautier.wordpress.com/2017/04/09/the-deviousness-of-indian-journalism/#:~:text=Dear%20Mr%20Gautier,himanshi.dhawan@gmail.com,UNKNOWN,Journalistic Queries,1-on-1 communications 
+61,"Subject: Interview Request – William F. Buckley Jr. Biography
+Dear Mr. Casey, I am working on a biography of William F. Buckley Jr., to be published by Simon & Schuster. Mr. Buckley has kindly granted me access to his papers at Yale and agreed to about 20 hours of interviews. I would very much like to interview you as part of this project, given your acquaintance with Mr. Buckley dating back to 1952 (including your role in incorporating National Review). I would be happy to answer any questions about my book or credentials. Thank you for considering my request, and I hope we can arrange a convenient time to speak.",legitimate,CIA FOIA release – letter from John Judis to Wm. Casey (CIA),John B. Judis (Author/Journalist),"https://www.cia.gov/readingroom/document/cia-rdp87m00539r001501860006-2#:~:text=,",john.judis@example.com,UNKNOWN,Journalistic Queries,1-on-1 communications 
+62,"Subject: Interview Request – The Yale Politic (Yale University)
+Dear Professor Podesta, My name is Justin Katz and I am a student at Yale University, where I serve as an Associate Editor of The Politic, our undergraduate political journal. We frequently feature interviews with public officials, scholars, and authors. I’m writing to ask if one of our staff writers could speak with you by phone for an interview. We’d love to discuss your career in government, your transition to the Center for American Progress, and even some of your favorite bands. For context, The Politic has been Yale’s premier political publication since 1947, with past editors-in-chief including Fareed Zakaria and Gideon Rose. We’ve interviewed numerous prominent figures – President Obama, Secretary Kerry, and others. We would be grateful for any time you could offer in the next month, given your busy schedule. I look forward to hearing from you, and I hope you’re having a great week.
+Sincerely,
+Justin Katz
+Ezra Stiles College ’18, Yale University
+(919) 943-XXXX",legitimate,EPA FOIA records,Channel One Russia,"https://archive.org/stream/EPA-VW-emissions-FOIA/2015%20pt%203%20%28025393-029392%29_djvu.txt#:~:text=,a%20topic%20about%20unfair",marina_doronina@channel1.ru,UNKNOWN,Journalistic Queries,1-on-1 communications 
+63,"Subject: Interview Request – Wisconsin Public Radio (Morning Show)
+Hello, I’m a producer with Wisconsin Public Radio. We would like to invite John Podesta to join our live morning program this Friday, February 20, from 8:00–9:00 AM EST. The discussion will focus on recent developments in U.S. politics and we believe Mr. Podesta’s insights would be extremely valuable to our listeners. Would Mr. Podesta be available for a phone interview during that hour? If necessary, we can pre-record at his convenience. Please let us know as soon as possible – we are happy to coordinate through his staff (c/o Eryn Sepp). Thank you for considering our request; we hope to hear from you soon.
+Best regards,
+[Producer Name]
+Wisconsin Public Radio – [Show Name]",legitimate,Podesta emails,Wisconsin Public Radio,"https://paradigmresearchgroup.org/2016/11/13/wikileaks-clinton-et-connection-emails-w-prg-comments-chronological-order/#:~:text=,he%20had%20seen%20the%20email",,UNKNOWN,Journalistic Queries,1-on-1 communications 
+64,"Your card was declined
+
+A transaction made using your Wells Fargo Debit Card was declined.
+Card ending in ----
+Declined due to insufficient funds. Sign on to view available balance and account activity.	
+Transaction amount 39.98 USD	
+Located at APPLE.COM/BILL in 866-712-7753 UNITED STATES	
+Date 04/19/2025 11:09 PM US/Pacific	
+For your current balance, sign on and select this account. To modify or cancel your alerts, sign on to Manage Alerts.
+If you don't recognize this transaction, please call Wells Fargo customer service immediately at 1-800-869-3557, 24 hours a day, 7 days a week.",legitimate,My email,My email,My email,alerts@notify.wellsfargo.com,2025,Account Security/Login,Automated account
+65,"Subject: Google Account: sign-in attempt blocked
+Hi Cikgu,
+
+We recently blocked a sign-in attempt to your Google Account [teachfor...@gmail.com].
+
+Sign-in attempt details
+Date & Time: Saturday, 27 September 2014 09:26:51 o'clock UTC
+Location: Malaysia
+
+If this wasn't you
+Please review your Account Activity page at https://security.google.com/settings/security/activity to see if anything looks suspicious. Whoever tried to sign in to your account knows your password; we recommend that you change it right away.
+
+If this was you
+You can switch to an app made by Google such as Gmail to access your account (recommended) or change your settings at https://www.google.com/settings/security/lesssecureapps so that your account is no longer protected by modern security standards.
+
+To learn more, see https://support.google.com/accounts/answer/6010255.
+
+Yours sincerely,
+The Google Accounts team",legitimate,Google ,Google,https://groups.google.com/g/tftn-bod/c/6EUGGUB83co?pli=1,no-reply@accounts.google.com,,Account Security/Login,Automated account
+66,"Subject: Invitation to Present at OFR-University of Michigan Fintech Conference, Nov. 16-17, 2017
+Dear Mr. Quan,
+The U.S. Office of Financial Research and the University of Michigan's Center on Finance, Law, and Policy
+invite you to serve as a panelist at our upcoming financial stability conference.
+""Fin Tech Risks and Opportunities: An Interdisciplinary Approach,"" will take place at the University of Michigan
+in Ann Arbor, Michigan from Thursday, November 16 - Friday, November 17, 2017. This two-day event will
+bring together a wide range of researchers, policymakers, students, and practitioners from various disciplines.
+Financial technology, or Fin Tech, can be traced back to the introduction of the telegraph in the 1860s.
+Between then and the 1980s, most FinTech advancements were record-keeping and data systems found in
+the back offices of financial institutions, out of sight of the public. As internet technology became more
+available, however, FinTech evolved rapidly. Financial firms digitized their processes, and companies began
+introducing consumer-facing products such as online banking and PayPal. Today, FinTech continues to disrupt
+and to evolve, not only in how financial products and services are delivered, but who delivers them. Regulators
+and market participants face challenges in understanding and balancing the benefits of FinTech against
+Page 1 of 50
+potential risks.
+Innovation helps catalyze growth and new opportunities while generating new risks. Regulatory structures in
+place could fail to accommodate changes in the financial marketplace. Regulators may overreact to new
+technologies, stifling innovation and locking in old forms of doing business. At the same time, regulatory
+complacency can have disastrous results, permitting the buildup of systemic risk or widespread consumer
+harms. This conference will explore methodologies that the private sector, researchers, and policymakers can
+use harness the upside potential of financial innovation while reducing the downside risks.
+The symposium format will include keynote speakers and panel discussions. We invite you to make a short
+presentation about your work as part of Panel 5, ""Reg Tech: How Can Regulators Be Part of the Solution?"" A
+moderated discussion with an audience question and answer session will follow the panel.
+All speakers are invited to a pre-conference dinner the evening of Wednesday November 15, and a larger
+dinner on Thursday, November 16. The University of Michigan will cover your conference travel and hotel
+costs if those costs are not covered by your institution.
+To assist us with planning, please let us know if you will serve as a panelist by Friday, July 21, 2017.
+Sincerely,
+Richard Berner, Director, Office of Financial Research
+Michael S. Barr, Faculty Director, Center on Finance, Law, and Policy; Roy F. and Jean Humphrey Proffitt
+Professor of Law, University of Michigan Law School",legitimate,Government Attic,"U.S. Office of Financial Research and U. Michigan Center on Finance, Law, and Policy","https://www.governmentattic.org/56docs/CFPBtofrCorres2017-2021.pdf#:~:text=From%3A%20Richard%20Berner%20and%20Michael,on%20Finance%2C%20Law%2C%20and%20Policy",OFRconference@umich.edu,2017,Event Speaker Invitation,1-on-1 communications 
+67,"Dear Jake,
+We would like to invite you to be a panelist for a discussion at the Harvard Kennedy School on
+Thursday, February 15th, 2024, from 12-1:15pm.
+The Mossavar-Rahmani Center for Business and Government will cover the cost of your airfare
+and one night of hotel in Cambridge.
+Regards,
+Dan Murphy",legitimate,Harvard Kennedy School,Disclosures Clerk House,"https://disclosures-clerk.house.gov/gtimages/ST/2024/500027702.pdf#:~:text=Dear%20Jake%2C%20We%20would%20like,Regards",UNKNOWN,2023,Event Speaker Invitation,1-on-1 communications 
+68,"Subject: Urgent press inquiry re. McLean email
+Dear Julie and Dennis,
+I am a reporter at Vox Media's The Verge who is writing about the statement NOAA released Friday that
+stated that,
+""The Birmingham National Weather Service’s Sunday morning tweet spoke in
+absolute terms that were inconsistent with probabilities from the best forecast products
+available at the time.
+"" I'd appreciate a response from your agency on reports that Craig
+McLean said in an email that he will pursue ""the potential violations of our NOAA Administrative
+Order on Scientific Integrity"" as a result of that release.
+My Deadline is 12pm EST, and I can be reached via email or at 347-687-5990. I appreciate your
+time and consideration.
+Best regards,
+Justine Calma",legitimate,NOAA Public Affairs,The Verge (Vox Media),"https://www.noaa.gov/sites/default/files/legacy/document/2020/Mar/0.7.2809.41330.pdf#:~:text=To%20www,Justine",justine.calma@voxmedia.com,2019,Journalistic Queries,1-on-1 communications 
+69,"Subject: Interview request
+
+Hi Lauren,
+
+My name is Joe Castaldo and I'm a reporter at Canadian Business magazine in
+Toronto. (We're like a Canadian version of BusinessWeek.) I'm working on an
+article about what the EU crisis means for Russia and China. Both countries
+have been identified as candidates to contribute more to the European
+Financial Stability Fund, for example, but I'm assuming the opportunities go
+beyond that.
+
+I came across a piece on Stratfor about Russia's strategy with regard to the
+European crisis, and I'm wondering if you have some time to talk about it.
+Are you free later this afternoon or early next week? Any help you can
+provide is greatly appreciated. Thanks.
+
+Joe",legitimate,Stratfor Global Intelligence Files,Canadian Business,https://wikileaks.org/gifiles/docs/54/5438845_fwd-interview-request-.html#:~:text=Hi%20Lauren%2C,Joe.Castaldo@rci.rogers.com,2011,Journalistic Queries,1-on-1 communications 
+70,"Subject: Interview Request -- Scripps Howard News Service
+Dear Mr. Schmick,
+My name is Isaac Wolf, and I am a reporter at Scripps Howard News
+Service, the Washington bureau for TV affiliates and newspapers around
+the nation.
+I am writing to alert you that, in the course of conducting google searches
+on TerraCom, I stumbled across numerous completed Lifeline applications
+from TerraCom and YourTel which are posted freely online. Many of these
+applications include full Social Security numbers, dates of birth and other
+identifying details. An example is here: WEBSITE REDACTED
+My broadcast colleague, Jim Osman, and I have many questions about
+this. We request an on-camera interview with you next week, preferably
+on Wednesday or Thursday. We are happy to come to your offices
+Oklahoma City.
+We are working under tight deadline, and look forward to your response to
+our request for an on-camera interview as soon as possible.
+Thank you for your consideration.
+Most sincerely,
+-- Isaac
+Isaac Wolf
+National Reporter
+Scripps Howard News Service
+@IzzieWolf
+Phone: (202) 408-2705
+Fax: (202) 408-2062
+1090 Vermont Ave., NW, #1000
+Washington, DC, 20005
+wolfi@shns.com
+www.shns.com",legitimate,KMGH Denver media archives,Scripps Howard News Service,"https://mediaassets.thedenverchannel.com/documents/Scripps%20email%20requesting%20interview.pdf#:~:text=From%3A%20Wolf%2C%20Isaac%20Sent%3A%20Friday%2C,and%20newspapers%20around%20the%20nation",wolfi@shns.com,2013,Journalistic Queries,1-on-1 communications 
+71,"Attachment 2.a. Physician Interview Email Invitation
+E-mail Subject: Interview Request re: [name of state program]
+Dear [Dr. Last Name]:
+I am writing to request an appointment to interview you about [name of state program]. [Name of
+state program] is one of 10 programs that are included in the Medicaid Incentives for Prevention of
+Chronic Diseases (MIPCD) demonstration being sponsored by the Centers for Medicare & Medicaid
+Services (CMS). We would like to interview you as part of an evaluation of the MIPCD demonstration
+that we are conducting for CMS. The team working on this evaluation consists of researchers from RTI
+International and the National Academy for State Health Policy (NASHP). We are evaluating
+effectiveness and sustainability of this initiative on reducing Medicaid and health care costs. These site
+visits are one aspect of our overall demonstration evaluation which includes stakeholder interviews,
+quantitative analyses using Medicaid claims and encounter data, and focus group discussions conducted
+with and a mail survey fielded among beneficiaries.
+We will be visiting [name of state] from [date] to [date]. If you are available to speak with us for about
+[__] minutes, please let me know some dates and times that work well for you. If you prefer to
+schedule our appointment via phone, please let me know the best number to reach you. We will plan to
+come to your office for the interview, unless you prefer an alternate meeting location.
+Our evaluation team is interviewing a variety of people involved in [name of state program]. We are
+interested in your candid views about how implementation of this initiative is going, what populations
+are engaged in the program, what types of data collection processes the project has in place, and how the
+initiative’s evaluation is progressing. Finally, we are conducting a second round of stakeholder
+interviews focused on beneficiaries’ satisfaction with the program so we may contact you for further
+information.
+If there is an additional person you work with that you recommend we interview, please let us know
+their name and position. If we are able to interview them, we will set up a separate interview with them.
+Additional information about our evaluation and our visit is included in the attached background
+document. If you have any questions, please feel free to contact any of the individuals listed in the
+document.
+We look forward to speaking with you.
+Thank you,
+[RTI or NASHP scheduler’s signature block, including full contact info]",legitimate,OMB,RTI/NASHP,"https://omb.report/icr/201410-0938-001/doc/50643901#:~:text=E,part%20of%20an%20evaluation%20of",jdoe@rti.org,2013,Journalistic Queries,1-on-1 communications 
+72,"Subject: Media inquiry from the Washington Post
+Hi Leah,
+My name is Caitlin Dewey and I’m a reporter covering food policy at the Washington Post. I’m
+working on a story about the social media civility pledge that the Academy of Nutrition and
+Dietetics recently began promoting, and I hoped you’d have some time today to talk to me about it.
+A number of dieticians have told me that they believe the pledge was instituted because of
+complaints they made to AND about your behavior on Twitter. They claim that you have harassed
+them and unfairly called their reputations into question.
+I’d like to hear how you see your social media advocacy, the state of nutrition discourse online,
+and what you think of the AND pledge. Please let me know when you get a chance.
+Thanks,
+Caitlin",legitimate,Ergo Archive System,Washington Post,"https://usrtk.org/wp-content/uploads/2022/10/DM-initial-Batch-3.pdf#:~:text=USRTK,November%2021%2C%202017%2010",Caitlin.Dewey@washpost.com,2018,Journalistic Queries,1-on-1 communications 
+73,"Subject: URGENT: News Nation Media Request
+Hi Debra,
+I hope this email finds you doing well. We are continuing are coverage of the train derailment in East
+Palestine, Ohio and are hoping you were available this weekend to do a live interview with our host
+Natasha Zouves.
+Our show is 6-9pm CT/7-lOpm ET.
+Hope to hear from you soon.
+Best,
+Alexis Howell
+Senior Booking Producer, News Nation
+2501 West Bradley Place
+Chicago, ll 60618
+708-595-1268 (C)
+872-310-4253 (W)
+ahowell@nexstar.tv",legitimate,EPA. gov,News Nation,"https://semspub.epa.gov/work/05/985502.pdf#:~:text=,read%20Rachel%27s%20comments%20in",AHowell@newsnationnow.com,2023,Journalistic Queries,1-on-1 communications 
+74,"Subject: Interview request from the Jesuits
+
+
+Dear Dr. Fauci,
+
+Ihost the AMDG Jesuit Podcast, which reaches a faith-based audience connected to Jesuit institutions around the country.Iwould love to welcome you onto the show to discuss the coronavirus and how your Jesuit education has shaped your career. It would be great to have 15-20 minutes of your time . Thanks very much for your consideration .
+
+Best, Mike
+
+
+Mike Jordan Laskey
+Senior Communications Manager
+Jesuit Conference of Canada and the United States 1016 16th Street NW 3rd Floor
+Washington, DC 20036 202.629.5933
+jcucommunications@jesuits.org",legitimate,Kaggle,AMDG Jesuit Podcast,https://www.kaggle.com/datasets/ranasagheerkhan/anthony-fauci-emails-the-face-of-us-on-covid,podcast@jesuits.org,2020,Journalistic Queries,1-on-1 communications 
+75,"Hello,
+
+You’re receiving this email because we are updating the Microsoft Services Agreement, which applies to one or more Microsoft products or services you use. We’re making these updates to clarify our terms and ensure that they remain transparent for you, as well as to cover new Microsoft products, services and features.
+The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services.
+You can read the entire Microsoft Services Agreement here. You can also learn more about these updates on our FAQ page here, including a summary of the most notable changes. The updates to the Microsoft Services Agreement will take effect on September 30, 2024. If you continue to use our products and services on or after September 30, 2024, you are agreeing to the updated Microsoft Services Agreement.
+If you do not agree, you can choose to discontinue using the products and services, and close your Microsoft account before these terms become effective. If you are a parent or guardian, you are responsible for your child’s or teenager’s use of Microsoft products and services, including purchases.
+Thank you for using Microsoft products and services",legitimate,Microsoft,Microsoft,https://milled.com/microsoft-store/updates-to-our-terms-of-use-yizOUWVHM6a8PhHZ,UNKNOWN,2024,Account information,Automated account
+76,"Subject: Frank Johnson: Applying for the Production Engineer Role at Chrix Tech
+Dear Ms. Andrews,
+
+Please accept this letter as my application for the Production Engineer position. With a track record of resourcefulness and leadership, I’ve developed strategic initiatives that I believe will prove valuable to Chrix Technologies.
+
+Working in this field for 9 years has given me the experience to carry out my duties diligently. I worked for Argon Industrial Services Limited for 3 years before joining KH Engineering Global Limited, which included leading:
+
+Process improvement
+Preventative maintenance
+ISO standards knowledge
+Resource planning and optimisation
+In addition to these technical skills, I have a solid educational foundation and a strong commitment to safety and efficiency. Kindly review my attached CV for additional details. I’d be grateful for the chance to speak with you regarding my qualifications.
+
+Thank you for your consideration.
+
+Yours sincerely,
+Frank Johnson
+07423 542 785
+frankjohnson@gmail.com
+<Attachment: Frank-Johnson-Production-Engineer-CV.pdf (54K)>",legitimate,CVgenius,Frank Johnson,https://cvgenius.com/blog/cover-letter-help/email-cover-letter,UNKNOWN,2024,Job Offer/Opportunity,1-on-1 communications 
+77,"Dear -,
+We're making some important changes to our User Agreement on eBay.com.au, and to our global User Privacy Notice.
+User Privacy Notice
+We're updating our User Privacy Notice to reflect changes that will make it easier for you to understand the personal data we collect and to give you greater control over your personal data. This is part of our ongoing commitment to be transparent about how we use your data and keep it safe. The new updates will take effect on 20 June 2020, and no further action is required by you.
+What's in it for you:
+•
+Additional information about the personal data we collect, the purposes for which we use that data, and how we share and process personal data within the eBay Inc. corporate family and with other businesses and service providers.
+It's important to us that we keep your data safe and increase transparency about how we use it. You can learn more about eBay's Privacy Principles and User Privacy Notice at our Privacy Center.
+eBay User Agreement
+We're updating our User Agreement to reflect that eBay's payments entity, eBay Commerce Australia Pty Ltd, will begin managing payments on behalf of sellers on eBay.com.au. The updated User Agreement will take effect on 20 July 2020.
+What's in it for you:
+•
+The new Managed payments section details what buyers and sellers need to know when using this service.
+•
+We've updated the sections relating to Returns and eBay Money Back Guarantee and Buying and selling internationally for clarity and to reflect the introduction of the managed payments service.
+As a buyer, you don't need to do anything else – you'll begin seeing new payment options when shopping on eBay as they become available. As a seller, you can learn more about managed payments in our Seller Centre.
+As always, thank you for being part of eBay.
+The eBay Team",legitimate,ebay,ebay,https://milled.com/ebay-au/updates-to-ebay-user-agreement-and-user-privacy-notice-sBhXxi8g5DCdiXtk,UNKNOWN,2020,Account information,Automated account
+78,"HHS.gov
+U.S. Department of Health & Human Services
+
+Need guidance on vaccinations for your children? The Food and Drug Administration (FDA) has developed a guide for parents and caregivers on vaccines for children. Learn more about the benefits and risks associated with vaccines, the types of vaccines routinely administered for children, and the steps to take when your child is vaccinated.
+
+A Guide to Vaccinating Your Children",legitimate,Granicus,HHS.gov,https://granicus.com/pdfs/guide_GC_12awesome_emails.pdf?,UNKNOWN,UNKNOWN,Government assistance ,Government communications
+79,"Subject: Voter Registration Reminder
+
+MARITTA - As a reminder, residents who are not currently registered to vote, or who have moved but have not notified the Cobb County Board of Elections and Registration, must submit their voter registration application by the close of business Monday, October 7, 2013 in order to vote at the proper precinct on November 5, 2013.
+
+To check your registration, please visit www.sos.ga.gov/MVP (My Voter Page).
+
+Other election information is available at www.CobbElections.org. If you have any questions, please call 770/528-2581.",legitimate,Granicus,City of Marietta,https://granicus.com/pdfs/guide_GC_12awesome_emails.pdf?,UNKNOWN,UNKNOWN,Government assistance ,Government communications
+80,"Subject: Property Tax Reminder
+
+As you requested, the following is a reminder from Hennepin County.
+
+First half property taxes are due on May 15th, 2013. (When the date falls on a weekend or holiday, the taxes are due the next business day.)
+
+For more information visit: www.hennepin.us/PropertyTaxPayments.
+",legitimate,Granicus,Hennepin County,https://granicus.com/pdfs/guide_GC_12awesome_emails.pdf?,UNKNOWN,UNKNOWN,Government assistance ,Government communications
+81,"Dear [name redacted], 
+I hope this message finds you well.
+My name is Tiana Lakhani, and I am a senior at Stanford University studying International Relations. I am currently conducting research for my honors thesis, titled “AI in Shadows,” which explores the evolution of North Korea’s cyber activities from 2009 to 2024, with a focus on the role of AI in cyberwarfare.
+I was recommended I speak to you by Stephen Kotkin and Rachel George - they mentioned you would be a great person to speak to on this topic. Given your expertise and work on North Korea, I would greatly value the opportunity to hear your insights and perspectives on any of the following: North Korean cyber operations and how they have evolved, and recommendations for US and global cyber defence, especially in light of increasing AI use. 
+My thesis aims to address critical questions such as:
+What is the current state of US and global cybersecurity in response to state-sponsored attacks?
+How does North Korea’s state-sponsored cyber operations differ from other actors, such as China and Russia?
+How has North Korean cyber operations evolved over time?
+How does the rise of AI amplify the urgency of addressing cyber threats? And how should we prepare?
+
+I developed an interest in this topic through my research work with the Committee for Human Rights in North Korea, where I contributed to reports with UN Special Rapporteurs and published a dedicated project on North Korean cyberwarfare.
+The interview would take approximately 30 minutes and can be scheduled at a time convenient for you. I am happy to accommodate your availability and conduct the interview over Zoom or phone call, whichever you prefer. 
+Thank you so much for considering my request. Please feel free to let me know if you have any questions or require further information about my research. I look forward to the possibility of learning from your expertise.
+Warm regards,
+Tiana Lakhani
+
+Stanford University | Department of International Relations
+tianalk@stanford.edu
++1 650 334 6631",legitimate,My email,My email ,My email ,UNKNOWN ,UNKNOWN,Journalistic Queries,1-on-1 communications
+82,"Subject: Notice of Data Breach​
+
+Notice of Data Breach
+Dear [Member],
+This letter is to inform you of a data security incident that impacted the username and salted and hashed password you may have used to access your American Bar Association (“ABA”) online account. The ABA takes the security of your information very seriously and sincerely apologizes for any concern this incident may cause. While the ABA has no indication that your personal information has been misused, this letter contains information about what occurred, actions that have been taken to prevent a reoccurrence, and steps you can take to protect your information.​
+oag.ca.gov
+What happened?
+On March 17, 2023, the ABA observed unusual activity on its network and immediately activated its incident response plan. Cybersecurity experts were retained to assist with the investigation. The investigation determined that an unauthorized third party gained access to the ABA network beginning on or about March 6, 2023, and may have acquired certain information. By March 23, 2023, the investigation identified that the unauthorized party had acquired usernames and hashed and salted passwords that you may have used to access ABA online accounts.​
+oag.ca.gov
+What information was involved?
+The information involved was the username and hashed and salted password you used to log into the ABA website. To be clear, passwords were not exposed in plain text – they were stored in a protected (hashed and salted) form. The ABA is notifying all affected individuals out of an abundance of caution. (If you reused the same credentials on the new ABA website, please update your password.)​
+
+What we are doing.
+The ABA has taken measures to secure its systems and prevent future attacks. We removed the unauthorized access, engaged cybersecurity specialists, and reviewed our network security configurations to address evolving threats.​
+
+What you can do.
+Although we have no evidence of misuse of your information, we encourage you to change any password that is similar to the one involved in this incident. Please remain vigilant for any unauthorized attempts to access your accounts. If you use the ABA Career Center, consider changing that password as well. Enclosed with this email is additional information on protecting yourself from identity theft.​
+
+For more information.
+If you have any questions, please call our dedicated incident response line at 1-888-411-8698 (Monday–Friday, 9:00am–9:00pm Eastern). The ABA appreciates your patience and understanding, and we sincerely apologize for any inconvenience or concern this incident may cause you.​
+oag.ca.gov
+Sincerely,
+Annaliese Fleming
+Sr. Associate Executive Director and General Counsel, American Bar Association​",legitimate,ABA,ABA,https://oag.ca.gov/system/files/Sample%20ABA%20Consumer%20Notification%20Letter.pdf,UNKNOWN,2023,Account Security/Login,Automated account
+83,"ATTN: STUDENTS IN FALL 2022 FULL-TERM COURSES
+
+This e-mail is being sent as a courtesy reminder, and is a highlight of an important date in the Fall 2022 Academic Calendar (below). Today is the LAST DAY OF CLASSES (full-term courses) and we want to remind you of a couple items.
+https://registrar.rice.edu/calendars/fall-semester-2022
+
+FINAL GRADES
+--> Final grades will be viewable in ESTHER only after they are calculated & submitted online by instructors
+--> If you've not completed an available Course Evaluation, you will be prompted to do so before you can see your final grade
+
+All the best to each of you as you complete the Fall 2022 semester.",legitimate,Rice University,Rice University,"https://registrar.rice.edu/news/fall-2022-last-day-classes-students#:~:text=This%20e,2022",UNKNOWN ,2022,Announcement,Automated account
+84,"
+[[VIEW_THIS]]
+
+Patent Trial and Appeal Board
+USPTO-footer-graphic
+The Patent Trial and Appeal Board (PTAB) designates Amazon decision as precedential
+Amazon.com, Inc. v. Uniloc Luxembourg S.A., Case IPR2017-00948 (PTAB Jan. 18, 2019) (Paper 34)
+
+This decision determines that 311(b) does not preclude Petitioner from raising, or the Board from considering, other grounds of unpatentability, including § 101, as to substitute claims not yet part of a patent, in the context of a motion to amend.
+
+This precedential decision can be found on the PTAB’s Precedential and Informative Decisions page of the USPTO website.
+
+ 	
+facebook
+twitter
+youtube
+linkedin
+ 
+Stay connected with the USPTO by subscribing to regular email updates.
+
+Visit our subscription center at www.uspto.gov/subscribe to update or change your email preferences.
+
+This email was sent from an unmonitored mailbox. To contact us, please visit our website www.uspto.gov/about/contacts. To ensure that you continue to receive our news and notices, please modify your email filters to allow mail from subscriptioncenter@subscriptions.uspto.gov.",legitimate,USPTO,USPTO,"https://www.uspto.gov/subscription-center/2019/patent-trial-and-appeal-board-ptab-designates-amazon-decision-precedential#:~:text=Amazon,18%2C%202019%29%20%28Paper%2034",UNKNOWN ,2022,Announcement,Automated account
+85,"Updated Terms of Service and new Site Policy repository
+We're updating our Terms of Service and Corporate Terms of Service. These revisions are the result of community feedback, along with clarifications and improvements to the readability of both documents. All changes are in separate pull requests in a new working repository, github/site-policy. Here, you can view, comment, and suggest additional updates—or fork a copy to adapt for your own site.
+
+Please submit your comments by 5:00 pm PST on Friday, July 28. After that, we’ll take a week to go through your comments and make changes to improve the Terms. The new Terms will become effective on Monday, August 7.
+
+Pull requests welcome
+We welcome you to look over our changes and share your input using the new Site Policy repository. Please follow our Contributor Guidelines, and let us know if you see anything you think should be different—whether it’s a missed typo or a rule that might have implications we haven’t thought of.
+
+Overview of changes
+Updates to GitHub Terms of Service: Added a “Private Repositories” section as Section E, updated the licenses granted in Section D for clarity, and updated the Complete Agreement subsection in Section S, “Miscellaneous”
+
+Updates to GitHub Corporate Terms of Service: Added a ""Private Repositories"" section as Section E, updated the licenses granted in Section D for clarity, updated the Complete Agreement subsection, and added a Publicity subsection to Section S, ""Miscellaneous""
+
+Added a product description to the GitHub Business Plan Addendum
+
+Updated the Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users to reflect previous changes to notification policy
+
+Can't comment before July 28? No problem! The site policy repository is always open, so you can send us feedback any time. Check out the blog post to learn more, or give us your feedback. We'd love to hear if our project helped you create policy foundations for your business.
+
+Email preferences · Terms · Privacy · Sign into GitHub
+
+GitHub, Inc.
+88 Colin P Kelly Jr St.
+San Francisco, CA 94107",legitimate,Google ,Github,https://groups.google.com/g/hector-dev/c/ZdH-LQjyIHM,UNKNOWN ,2017,Announcement,Automated account
+86,"Hi Customer,
+
+We are updating our Terms of Use with changes taking effect on April 24, 2024.
+
+As part of our commitment to offer you safe, secure, and reliable services, we periodically review and update our Terms and Policies. The purpose of this communication is to provide you greater transparency and clarity around these updates. Notable changes include the following:
+
+Updates that clarify the support we offer via Live Chat and Chatbot.
+Further terms that emphasize the applicability of slashing or similar penalties towards staking rewards.
+Certain clarificatory changes to the Arbitration section of our Terms.
+We encourage you to familiarize yourself with these changes by reviewing the updated Terms of Use. These updates will go into effect for new customers immediately and existing customers on April 24, 2024.
+
+By continuing to use the Binance.US platform from that date onward, you agree and will be subject to our updated Terms of Use. If you do not agree to these changes, you may close your Binance.US account at any time, as long as your account is in good standing.
+
+Thank you for being a valued member of the Binance.US community!
+
+The Binance.US Team",legitimate,Binance.US,Binance.US,https://milled.com/binance-us/updates-to-our-terms-of-use-raxERHq9nG2_OE5I,UNKNOWN ,2024,Announcement,Automated account
+87,"Subject: New Customer Set-up
+I updated the procedures for setting up new customers to the SharePoint site. Let me know if you have feedback.
+
+Have a great day!
+Jane
+
+Phone Number: (123) 456-7890",legitimate,FR Secure,ABC Company,https://frsecure.com/blog/is-that-sender-for-real-three-ways-to-verify-the-identity-of-an-email/,UNKNOWN,2016,Other,1-on-1 communications
+88,"Subject: Inquiry Regarding Potential Interview Contacts for Cyberwarfare Research
+​
+Dear <redacted>,
+
+I hope this message finds you well.
+
+I’m reaching out following your mention in our last class that you might know individuals with expertise in the cyberwarfare or cross-border cyber conflict domain. As part of my research on North Korean cyberwarfare, I’m hoping to interview experts in this field for my recommendations chapter—particularly those with insight into the legal dimensions or broader policy implications.
+
+If you happen to know anyone, including within the Cyber Policy Department (although I do work with them, I currently only have one main point of contact there), I would be truly grateful for any recommendations or introductions you could provide.
+
+Thank you so much for your time and support.
+
+Warm regards,
+Tiana",legitimate,My email,My email ,My email ,UNKNOWN ,UNKNOWN,Journalistic Queries,1-on-1 communications
+89,"Dear ________,
+
+Your Housing Selection Date & Time has been assigned for your selection of your 2024-2025 housing assignment. Selection times for incoming first year students begin on Monday, July 15th and end on Friday, July 19th, beginning at 9:00 am and ending at 6:00 pm each day. 
+
+Your Housing Selection Date & Time is: _______________ (times may be listed in military time).
+
+You may also view your selection date and time through the Housing Portal available through your To Do list on the Nest. Your selection date and time can be viewed in the ""Room Selection Information"" step. If you are not able to access the Housing Portal through the To Do List, you may follow the Instructions below to access this information in The Nest:
+
+1. Log in to The Nest (nest.sju.edu) using your SJU username and password.
+2. Find the ""School Services & Resources"" section at the bottom of the page.
+3. Under the ""Housing & Dining Services"" section, click on ""Housing & Dining Application.""
+4. Once within the Housing Portal, select the 2024-2025 Academic Year.
+
+Additionally, the ""Browse Rooms"" feature is now available within the Housing Portal. You may use this to view additional details about the housing options available for selection, including floor plans and occupancy information. “Browse Rooms” is also very similar to the steps you will see when you are making your Housing Selection. Please pay attention to the following updates for housing options as you use this tool.
+
+3-Person Rooms - McShain and Sourin have a limited number of 3-person rooms. These rooms are larger than the other rooms in the building and have a standard occupancy of 3 people. You can search for these rooms specifically in the “Browse Rooms” filter
+Entire 1st floor of McShain - Women - In order to accommodate a higher ratio of female identifying students, the entire 1st floor of McShain is designated as female
+Residential Learning Communities - Applications are due by July 3rd if you are interested in living in any of these specific communities located in Villiger or McShain Halls.
+As we approach the Housing Selection Process, we encourage you to visit our website to view additional information and resources about the Housing Selection Process including tutorials and Q&A opportunities with our team via Zoom. More information can be accessed through the link below:
+
+SJU - First Year Housing Selection Resources & Information
+
+Please do not hesitate to contact our office if you have any questions!
+
+Sincerely,
+
+The Office of Residence Life",legitimate,Saint Joseph's University,Saint Joseph's University,"https://www.sju.edu/offices/student-life/residence-life/housing-information/selection/incoming-first-year-students#:~:text=Your%20Housing%20Selection%20Date%20%26,at%206%3A00%20pm%20each%20day",UNKNOWN,2024,College-student information,Automated account
+90,"Hello,
+We are writing to let you know that we've updated our Privacy Policy, effective January 1, 2025. Though no action is required of you, your use of SpotHero’s website and mobile app will be subject to this revised policy on January 1, 2025. Please note, your continued use of SpotHero will confirm that you have reviewed and agreed to this updated policy.
+You can read the fully updated Privacy Policy <URL> at your convenience, but we’ve identified the key changes below:
+We have updated our Privacy Policy to provide more detail about the data we collect and why, how we may use it, and how we may share it.
+We have updated our Privacy Policy to provide details regarding rights in certain jurisdictions.
+With that in mind, we encourage you to read the updated policy in full for anything that may be important to you.
+Thank you for using SpotHero!",legitimate,Spot Hero,Spot Hero,https://milled.com/spothero.com/weve-updated-our-privacy-policy-F3nSrnKqyOsIX3YS,UNKNOWN,2025,Account information,Automated account
+91,"Hi -,
+At Square, we strive to make our policies clear and easy to understand. As part of that commitment, we’ve updated our Terms of Service, which will be effective as of April 26, 2021.
+Here’s some of what’s new:
+• 	General Terms: We’ve updated our dispute resolution and arbitration provision to provide an informal dispute resolution mechanism, provide greater specificity around the applicable AAA rules, clarify both your and our respective responsibilities, and give you more control over your participation in the arbitration, including the right to opt out.
+• 	Payroll Terms of Service: We’ve updated our payroll terms of service to provide additional clarity around how our product functions and how they may support your particular business needs.
+• 	ACH Service Terms: We’ve included terms for our ACH Service.
+What you should do:
+We encourage you to review the updated terms in full, which will apply to you if you continue to use our products and services on and after April 26, 2021.
+Thank you for being a part of the Square community.
+
+The Square Team",legitimate,Square,Google,https://groups.google.com/g/clonewarszaragoza/c/R7vSzzYEi34,UNKNOWN,2021,Account information,Automated account
+92,"Hi -,
+You’re receiving this email because we’re making updates to LinkedIn’s User Agreement and have provided you more information in our Privacy Policy.
+While we encourage you to read both, here’s a quick look at what you should know:
+Updates to the User Agreement, which are effective on November 20, 2024, include more details on content recommendation and content moderation practices, new provisions relating to the generative AI features we offer, and license updates designed to help creators expand their brand beyond LinkedIn.
+As our product evolves to leverage generative AI, we have given you more information in our Privacy Policy by adding language on how we use the information you share with us to develop the products and services of LinkedIn and its affiliates, including by training AI models used for content generation (“generative AI”) and through security and safety measures.
+At this time, we are not enabling training for generative AI on member data from the European Economic Area, Switzerland, and the United Kingdom. For those outside these regions, we’ve proactively made available an opt-out setting for any members who choose not to make this information available for this purpose.
+For more information, please visit our frequently asked questions, or our post on LinkedIn. By continuing to use LinkedIn, you are agreeing with these terms.
+We remain committed to being transparent about our practices and keeping you in control of the information you entrust with us.
+The LinkedIn Team",legitimate,Linkedln,Google,https://groups.google.com/a/chromium.org/g/chromium-gsoc/c/piA_PAnsQe8,UNKNOWN,2024,Account information,Automated account
+93,"Subject: Call for Papers - NZCSRSC 08
+
+Another conference that may be of interest to those in computer science, 
+information technology, or otherwise computationally related fields. It has 
+been particularly pointed out, that also IS and other related fields are very 
+welcome.
+
+Last year the conference featured a ""Geeks and Suits"" event for career 
+planning contacts with the (related) industry. Additionally excellent New 
+Zealanders as key note speakers who have become internationally famous (Ian 
+Foster as the ""godfather"" of Grid Computing, Craig Neville-Manning from 
+Google, ...).
+
+It was definitely worth it, and I expect it to be good again.
+
+Guy
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+== Call for Papers ==
+
+We are now inviting submissions for full and short papers for the 6th
+New Zealand Computer Science Research Students Conference, to be held in
+April 2008 at the University of Canterbury.
+
+NZCSRSC 2008 is an opportunity for all Computer Science research
+students from around New Zealand to get together and learn more about
+cutting-edge research in different topics. Get your work known
+throughout the country and receive feedback from others engaged in the
+same area. Seize this chance of showcasing your research to the top
+Computer Science postgraduate students in New Zealand: submit your paper
+to NZCSRSC 2008.
+
+== Submission Details ==
+
+Submissions are now being accepted for: 
+
+     * Full papers (with presentation) - not exceeding 8 pages
+     * Short papers (with poster) - not exceeding 4 pages
+
+The conference covers all fields of research in Computer Science and
+Software Engineering. See the NZCSRSC 2008 website for a comprehensive list.
+
+Each author who submits a paper will be required to participate in the
+review process. Each reviewer will be assigned three papers authored by
+his/her peers for blind-review. Further details concerning the
+review process will be made available closer to the review period.
+
+NZCSRSC 2008 website - Call for Papers:
+http://nzcsrsc08.canterbury.ac.nz/papers.html
+
+Our local contacts from Massey Albany are Chris Messom (C.H.Messom|at|
+massey.ac.nz) Guy Kloss (G.Kloss|at|massey.ac.nz)
+
+
+For general enquires, please contact Amali Weerasinghe (amali.weerasinghe|at|
+pg.canterbury.ac.nz)
+
+
+-- 
+Guy K. Kloss
+Institute of Information and Mathematical Sciences
+Te Kura Putaiao o Mohiohio me Pangarau
+Room 2.63, Quad Block A Building
+Massey University, Auckland, Albany
+Private Bag 102 904, North Shore Mail Centre
+voice: +64 9 414-0800 ext. 9585   fax: +64 9 441-8181
+eMail: r.xewwa@massey.ac.nz  http://iims.massey.ac.nz",legitimate,Kaggle ,UNKNOWN,https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails/data,UNKNOWN,UNKNOWN,Event Speaker Invitation,Automated account
+94,"Subject: postfix + dkim-filter + email lists - milter troubles (can't read SMFIC_HEADER)
+
+Had some trouble deploying dkim-milter-2.4.4 on postfix-2.4.6 (debian etch backports - tried etch 2.3.8 and had the same troubles) and mailman_2.1.9-7. 
+
+DKIM-milter is deployed and signing and verifing mode with its primary intent to sign emails on lists.cacert.org mailing lists.
+
+Feb  7 09:27:09 lists postfix/master[22912]: daemon started -- version 2.4.6, configuration /etc/postfix
+I deployed it as a typical and sole milter
+smtpd_milters = unix:extern-milter/dkim-filter.sock
+non_smtpd_milters = $smtpd_milters
+
+Testing on a tiny email list and the email came through signed by dkim.
+
+Feb  7 10:28:29
+an email when through to a larger email list poptem-kkrrvq@lists.cacert.org without any error
+
+after a significant number of hours without a peep out of dkim-filter I start to get.
+
+Feb  7 14:40:05 lists postfix/cleanup[15075]: F13C6108238: message-id=<95690946646473.5e95gt09s6@hlin.cacert.org>
+Feb  7 14:40:05 lists postfix/cleanup[15075]: warning: milter unix:extern-milter/dkim-filter.sock: can't read SMFIC_HEADER reply packet header: Connection reset by peer
+Feb  7 14:40:05 lists postfix/cleanup[15075]: F13C6108238: milter-reject: END-OF-MESSAGE from lists.cacert.org[172.16.2.17]: 4.7.1 Service unavailable - try again later; from= to= proto=ESMTP helo=
+Feb  7 14:40:05 lists postfix/smtpd[15071]: disconnect from lists.cacert.org[172.16.2.17]
+Feb  7 14:40:05 lists postfix/smtpd[15071]: connect from lists.cacert.org[172.16.2.17]
+Feb  7 14:40:05 lists postfix/smtpd[15071]: 05DE1108238: client=lists.cacert.org[172.16.2.17]
+Feb  7 14:40:05 lists postfix/cleanup[15075]: 05DE1108238: message-id=<95690946646473.5e95gt09s6@hlin.cacert.org>
+Feb  7 14:40:05 lists postfix/cleanup[15075]: warning: milter unix:extern-milter/dkim-filter.sock: can't read SMFIC_HEADER reply packet header: Connection reset by peer
+Feb  7 14:40:05 lists postfix/cleanup[15075]: 05DE1108238: milter-reject: END-OF-MESSAGE from lists.cacert.org[172.16.2.17]: 4.7.1 Service unavailable - try again later; from= to= proto=ESMTP helo=
+
+These occured for these same to email recipients, every 15 minutes from until Feb  7 21:00:15 when I woke up in a haze. noticed it was failing and turned it off.
+The dkim-milter still seems to be running happliy on its unix socket.
+
+This is also noted on 
+http://sourceforge.net/mailarchive/message.php?msg_id=476123D1.5000602%40hetnet.nl
+(the second error). I still can't get a total grasp of whats happing though.
+
+Any tips on how to isolate this error would be really welcome as I really don't want to be trialing on a live system too much.
+
+-- 
+
+Daniel Black
+--
+Proudly a Gentoo Linux User.
+Gnu-PG/PGP signed and encrypted email preferred
+http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x76677097
+GPG Signature D934 5397 A84A 6366 9687  9EB2 861A 4ABA 7667 7097",legitimate,Kaggle,UNKNOWN,https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails/data,UNKNOWN,UNKNOWN,Other,Automated account
+95,"Subject: University Remote Work Policy Update
+Dear colleagues,
+
+I am writing to share an update to the University’s policy on Flexible Work Arrangements (FWAs), and more specifically, remote work. While University Services is committed to delivering services in person, and we only have a handful of employees who work remotely, I wanted to share with all of you the details around this policy change.
+
+As of September 1, 2023, the University’s guidance will change from allowing up to 2 to allowing up to only 1 remote workday per week, unless certain exceptions apply. For some other departments, this is a significant change. My goal with this email is to share the rationale for this decision.
+
+This decision follows 18 months of analysis and discussion by Cabinet units regarding Flexible Work Arrangements (FWAs) for remote work. Along with our colleagues across the campus, we assessed the extent to which our current remote work approach is working well, and where it has raised challenges for Princeton’s fundamentally residential and in-person academic mission.
+
+We have collectively determined that our current allowance is not optimal for maintaining principal and consistent in-person and on-site presence across University departments, which is essential to supporting Princeton’s culture and its research and teaching mission. To be sure, the pandemic has taught us all that there is value in remote work flexibility, which is why the new guidance will allow for one day of remote work per week. Moreover, the University recognizes the need for greater flexibility in some specific and limited circumstances, which is why the new policy articulates criteria for remote work beyond one day a week.
+
+The goal of this new approach is to optimize operations, to prevent the fraying of our University’s culture, to foster the development of and sustained meaningful professional connections that enable individual and collective excellence, and to maintain important flexibility for individuals, based on job and operational allowability. The policy seeks to better align for the long term the University’s work environment with our cultural commitment to performance excellence, professional development, collaboration, colleagueship, and high service levels in furtherance of the University’s educational mission.
+
+Accordingly, the updated remote work guidance will shift by September 1, 2023 to a maximum of 1 remote workday each week, job allowable, unless a unit’s Cabinet officer approves an exception for specific individuals and roles based on the strict criteria set forth below.
+
+Cabinet Officer Exception Criteria Beyond 1 Day Per Week Remote For Recurring Remote Work:
+
+Space limitations and physical constraints at work location such that there is not available workspace for the employees designated for remote work.
+Acute/persistent recruitment markets for specific jobs/industries wherein additional remote work time has become normalized such that denying remote work would significantly compromise our ability to hire and/or attract and retain appropriately qualified staff; this determination must be made in consultation with HR Talent Acquisition and will be reviewed periodically.
+Significant performance and productivity improvement supported by clear and documented evidence/data for specific types of jobs. This is intended to be a rare exception applicable to a very small number of jobs at the University given the importance of in-person collaboration in general.
+Temporary circumstances (including changes in staffing needs during specific seasonal periods, such as outside the academic year, or other specific short-term situations, typically 3 months or shorter in duration) or transitions for planned separations such as phased retirements.
+All exceptions granted to individuals to enable remote work for more than one day per week will be subject to periodic review at least every 6 months, as is the case with all FWAs. As is true with respect to all flexible work arrangements under our policy, the “University retains discretion to discontinue FWAs in the best interest of the unit/department at any time.”
+
+As a service organization, University Services will continue to set a high bar for approving regular remote work schedules. However, I would encourage those interested in FWAs to review HR policy 5.1.4 Flexible Work Arrangements(Link is external) and a related set of FAQs(Link is external) and to discuss with their managers.
+
+Note that per HR policy, the University continues to encourage supervisors to permit reasonable flexibility in the normal course of business and operations to accommodate the periodic needs of individuals to manage personal affairs, aside from formal recurring flexible work arrangements/remote arrangements. Consequently, the exception criteria do not intend to cover ad hoc requests by an employee to work remotely (e.g., working at home while waiting for a delivery). Instead, the exception criteria apply to requests for routine or regularly recurring remote work arrangements that exceed one day of remote work per week.
+
+I feel optimistic that this revision to the policy will further strengthen our ability to work collaboratively with each other and with our campus partners.
+
+Thank you for your unwavering commitment to service for the Princeton community.
+
+Best regards,
+
+Chad L. Klaus
+Vice President, University Services",legitimate,Princeton,Princeton,"https://universityservices.princeton.edu/news/posted-62923-university-remote-work-policy-update#:~:text=I%20am%20writing%20to%20share,details%20around%20this%20policy%20change",UNKNOWN,2023,Announcement,Automated account
+96,"Subject: [UAI] Second Call for Participants(IWNICA'2004)
+
+We apologize if you recieve multiple copies. 
+
+Second Call for Participants 
+2004 International Workshop on Nature Inspired Computation and
+Applications (IWNICA'2004)
+October 25-29, 2004, Hefei, P. R. China
+http://nical.ustc.edu.cn/nica2004/
+
+
+Nature Inspired Computation, which is inspired from natural systems, has
+the unique character of self-adaptive, self-organizing and
+self-learning. Because of its ability to solve complex problems that are
+difficult for traditional computational methods, Nature Inspired
+Computation is now successfully used in many fields such as
+Combinational Optimization, Machine Learning, Data Mining and
+Engineering Design, etc.
+
+The 2004 International Workshop on Nature Inspired Computation and
+Applications will be held on October 25-29, 2004 at the University of
+Science and Technology of China (USTC), Hefei, P. R. China. The aim of
+this Workshop is to further explore the theories and applications of
+Nature Inspired Computation and identify future research directions. The
+Workshop provides an excellent opportunity for participants to hear from
+many distinguished international experts in the field and exchange ideas
+with them. The official language of the Workshop is English.
+
+1. Main Topics
+The topics of the workshop include, but are not limited to:
+* Basic Methods in Nature Inspired Computation
+* Theoretic Foundations and Performance Analysis for Nature Inspired
+Computation
+* Applications of Nature Inspired Computation
+* High Performance Computation Inspired by Nature
+* Novel Algorithms in Nature Inspired Computation
+
+2. Invited Speakers
+Distinguished experts will give lectures on Nature Inspired Computation
+and its applications. For detailed information, please refer to
+http://nical.ustc.edu.cn/nica2004/.
+
+So far, the experts who have confirmed to give the lectures at
+IWNICA'2004 include:
+
+	Prof. Wolfgang Banzhaf		The Memorial University of
+Newfoundland, Canada
+	Prof. Bill Buckles		The Tulane University, USA
+	Prof. Guoliang Chen		University of Science and
+Technology of China, P. R. China
+	Prof. David Corne		The University of Exeter, UK
+	Prof. Aike Guo			Chinese	Academy of Sciences, P.
+R. China
+	Prof. Lichen Jiao		Xidian University, P. R. China
+	Dr. Roy Johnston		The University of Birmingham, UK
+	Prof. Lishan Kang		Wuhan University, P. R. China
+	Prof. Peter Ross		The Napier University, UK
+	Prof. Marc Schoenauer		Senior researcher at INRIA,
+France
+	Prof. Edward Tsang		The University of Essex, UK
+	Prof. Xufa Wang			University of Science and
+Technology of China, P. R. China
+	Prof. Xin Yao			The University of Birmingham, UK
+	Prof. Bo Zhang/Ling Zhang	Tsinghua University/Anhui
+University, P. R. China
+	Prof. Yixin Zhong		Beijing University of Posts and
+Telecommunications, P. R. China
+	Prof. Zhi-Hua Zhou		Nanjing University, P. R. China
+
+3. Registration and Important Date
+Anyone who is interested in nature inspired computation and applications
+is welcome.
+Registration: Please browse the workshop homepage:
+http://nical.ustc.edu.cn/nica2004/ for detailed information and download
+the registration form.
+Deadline for Early Registration: September 30th, 2004.
+On-site registration is available.
+
+4. Contacts
+Workshop homepage: http://nical.ustc.edu.cn/nica2004/
+
+For further information, please contact:
+Prof. Xufa Wang
+Department of Computer Science and Technology,
+University of Science and Technology of China,
+Hefei, 230027, P. R. China
+Tel: 86-551-3601812    Fax: 86-551-3601013    Email:
+bqxp0785@ustc.edu.cn
+
+Dr. Wenjian Luo
+Department of Computer Science and Technology,
+University of Science and Technology of China,
+Hefei, 230027, P. R. China
+Tel: 86-551-3602824-1   Fax: 86-551-3601013    Email: wrskl@ustc.edu.cn",legitimate,Kaggle,UNKNOWN,https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails/data,UNKNOWN,2008,Event Speaker Invitation,1-on-1 communications
+97,"Subject: McCain
+
+Dear MoveOn member,
+
+After Super Tuesday's results and yesterday's news that Governor Mitt
+Romney dropped out of the presidential race, it's clear that Senator John
+McCain will be the Republican nominee.
+
+And while the election is a long way off, he's running neck and neck with
+Clinton and Obama in national polls. That's because when people think of
+McCain, they think of the media portrayal as a ""maverick""--they don't
+think of him as the man who helped George Bush launch the Iraq war.
+
+But a new memo from VoteVets.org shows that when it comes to the war in
+Iraq, John McCain has been the president's greatest ally from the
+get-go--and most striking is the fact that his plan for Iraq going forward
+is the same as Bush's: Stay indefinitely.
+
+Take a moment to read the memo, below--you won't regret it. Then, we're
+asking folks to get the word out--can you pledge to pass it on to your
+friends and colleagues? The more people that know about McCain's
+positions, the better.
+
+Yes, I'll pass this on to my friends.
+
+No, sorry.
+
+I'm also copying the memo below this email, so you can read it here.
+
+Thanks for all you do,
+
+--Nita, Marika, Joan, Karin, and the MoveOn.org Political Action Team
+  Friday, February 8th, 2008
+
+P.S. VoteVets.org is an organization that helps make Iraq and Afghanistan
+veterans' voices heard. Please consider donating to help their work here:
+http://www.moveon.org/r?r=3401&id=12092-4776693-buMN.R&t=186
+
+The memo is posted on their site here:
+http://www.votevets.org",legitimate,Kaggle,UNKNOWN,https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails/data,UNKNOWN,2008,Event Speaker Invitation,1-on-1 communications
+98,"Dear <redacted>
+Birth date: <redacted>
+Test date: <redacted>
+NHS Number: <redacted>
+
+Your coronavirus lateral flow test result is negative. It’s likely you were not infectious when the test was done.
+
+Keep following coronavirus advice including:
+
+regular handwashing
+social distancing
+wearing a face covering where recommended
+You only need to self-isolate if:
+
+you get symptoms of coronavirus – you’ll need to book a different test at https://www.gov.uk/get-coronavirus-test
+someone you live with tests positive, or has symptoms and has not been tested yet
+you’ve been traced as a contact of someone who tested positive
+For medical help, contact 111. In an emergency dial 999.
+
+See https://www.gov.uk/coronavirus for more advice",legitimate,My email ,My email ,My email ,UNKNOWN,2021,Other,1-on-1 communications
+99,"Dear Elizabeth,
+
+Thank you for donating to the Wikimedia Foundation. You are wonderful!
+
+It’s easy to ignore our fundraising banners, and I’m really glad you didn’t. This is how Wikipedia pays its bills — people like you giving us money, so we can keep the site freely available for everyone around the world.
+
+People tell me they donate to Wikipedia because they find it useful, and they trust it because even though it’s not perfect, they know it’s written for them. Wikipedia isn’t meant to advance somebody’s PR agenda or push a particular ideology, or to persuade you to believe something that’s not true. We aim to tell the truth, and we can do that because of you. The fact that you fund the site keeps us independent and able to deliver what you need and want from Wikipedia. Exactly as it should be.
+
+You should know: your donation isn’t just covering your own costs. The average donor is paying for his or her own use of Wikipedia, plus the costs of hundreds of other people. Your donation keeps Wikipedia available for an ambitious kid in Bangalore who’s teaching herself computer programming. A middle-aged homemaker in Vienna who’s just been diagnosed with Parkinson’s disease. A novelist researching 1850s Britain. A 10-year-old in San Salvador who’s just discovered Carl Sagan.
+
+On behalf of those people, and the half-billion other readers of Wikipedia and its sister sites and projects, I thank you for joining us in our effort to make the sum of all human knowledge available for everyone. Your donation makes the world a better place. Thank you.
+
+Most people don’t know Wikipedia’s run by a non-profit. Please consider sharing this e-mail with a few of your friends to encourage them to donate too. And if you’re interested, you should try adding some new information to Wikipedia. If you see a typo or other small mistake, please fix it, and if you find something missing, please add it. There are resources here that can help you get started. Don’t worry about making a mistake: that’s normal when people first start editing and if it happens, other Wikipedians will be happy to fix it for you.
+
+I appreciate your trust in us, and I promise you we’ll use your money well.
+
+Thanks,
+Sue
+
+Sue Gardner
+Executive Director,
+Wikimedia Foundation
+https://donate.wikimedia.org",legitimate,Heartspoken,Heartspoken,"https://heartspoken.com/important-message-from-wikipedia/#:~:text=Thank%20you%20for%20donating%20to,You%20are%20wonderful",UNKNOWN,UNKNOWN,Donation,Automated account
+100,"Your VENUS Order Has Been Received and Is Being Processed
+THANK YOU FOR SHOPPING! This email is confirming that we have received and are processing your recent order. Please verify that all the information below is correct. If you have any questions, feel free to call us toll-free at 1-888-782-2224 (outside US/Canada: 1-904-645-6000). Date: 12/02/18   Time: 03:04 PM
+Order #: 36048126
+Email: [customer email redacted]
+Billing Name: [Redacted]
+Billing Address: [Redacted], Oakdale, CA 95361, USA
+Day Phone: [Redacted] Shipping Name: [Redacted]
+Shipping Address: [Redacted], Beaverton, OR 97003, USA
+Day Phone: [Redacted] QTY ITEM (Description)   UNIT PRICE   TOTAL
+1   Y37757-S-CRMU Faux Fur Ruffle Sweater   $69.00   $65.55
+  (5% off promo applied) Subtotal: $69.00
+Shipping: $7.95
+Offer Code (5% OFF): -$3.45
+Sales Tax: $0.00
+Order Total: $73.50 Some of the items you ordered received promotional discounts. The prices shown above reflect the effective price after discounts",legitimate,Venus,Venus,https://milled.com/venus/your-venus-order-has-been-received-and-is-being-processed-8_xJUBl0StiYs2qE,UNKNOWN,2018,Purchase Order,Automated account
+101,"Subject: Collaboration Request – Humanitarian Research Project
+Dear [Name],
+Greetings from the International Aid Foundation. We are reaching out to propose a partnership on a new research project examining food security in North Korea. Given your expertise and our ongoing programs in East Asia, we believe a collaboration would greatly benefit both.
+We would like to schedule a meeting to discuss this in detail and explore how our organizations can work together. We are prepared to share preliminary findings and would welcome your insights.
+Thank you for considering this partnership opportunity. We look forward to your positive response.
+Best regards,
+[Name]
+Program Director, International Aid Foundation",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Partnership/Collaboration Request,1-on-1 communications
+102,"Subject: Immediate Action Required: Account Security Alert
+
+Dear [Name],
+
+We have detected an unusual login attempt on your [portal site] account on [date] at [time] (KST) from IP address [IP address] originating in Washington. For your protection, please click the secure link below to verify your identity and update your password immediately:
+
+[Secure Reset Link]
+
+Failure to verify may result in temporary suspension of your account.
+
+Sincerely,
+Security Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Account Security/Login,Automated account
+103,"Subject: Invitation: Exclusive Policy Forum on US-North Korea Relations
+
+Dear Dr. [Name],
+
+We cordially invite you to deliver a keynote address at an exclusive forum hosted by [Legitimate Think Tank]. Recent shifts in North Korean policy necessitate fresh perspectives, and your expertise is highly valued.
+
+Event Details:
+• Date: [date]
+• Time: [time] EST (Lunch session)
+• Compensation: $500 plus travel support
+
+Please confirm your availability at your earliest convenience for further details.
+
+Regards,
+[Think Tank Staff]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+104,"Subject:Opportunity: Technical Lead for Emerging SocialFi Platform
+
+Hello [Name],
+
+We’re launching an innovative SocialFi and Web3 gaming project and believe your technical acumen would be an ideal fit for our team. The role can be fully remote and offers competitive benefits.
+
+If interested, please reply to schedule a brief discussion.
+
+Best regards,
+[Recruiter Name]
+Talent Acquisition, [Company]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Job Offer/Opportunity,1-on-1 communications
+105,"Subject:Notice: Unusual Activity on Your [Google] Account
+
+Dear [Name],
+
+We observed a change in your account’s security settings and an unrecognized login attempt from an external IP address on [date]. Please review your account activity and secure your account by clicking below:
+
+[Review Activity Link]
+
+If you did not authorize these changes, update your password immediately.
+
+Regards,
+Google Security Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,mail-noreply@acountgoogle.com,2025,Account Security/Login,Automated account
+106,"Subject:Action Required: Verify Recent Security Change on Your Account
+
+Dear [Name],
+
+Our records indicate that your [Google] account security settings were recently modified. If you initiated this change, no further action is required. Otherwise, click the link below to secure your account:
+
+[Secure Your Account]
+
+This is an automated notification; please do not reply directly.
+
+Sincerely,
+Google Accounts Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,mail-noreply@acountgoogle.com,2025,Account Security/Login,Automated account
+107,"Subject:Notice: Suspicious Activity Detected on Your Account
+
+Dear Valued Customer,
+
+We have detected several anomalous login attempts to your account from Japan and the U.S. Our monitoring systems have temporarily flagged your account for review.
+
+Please verify your recent activity by visiting the link below:
+
+[Verify Now]
+
+Thank you for your prompt attention.
+
+Loss Prevention Department
+[Credit Union Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,sdfcuLPDepart@hotmail.com,2025,Account Security/Login,Automated account
+108,"Subject:Follow-Up: Interview Preparation for Media Feature
+
+Dear [Name],
+
+Thank you for your prompt reply regarding the upcoming interview on humanitarian issues. Please find attached the revised agenda for our TV discussion. The file is password-protected (Password: [password]).
+
+Looking forward to your participation.
+
+Warm regards,
+[Sender Name]
+Media Relations, [TV Station]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,[redacted]@gmail.com,2025,Journalistic Queries,1-on-1 communications
+109,"Subject:Official Request: Expert Contribution for Research Report
+
+Dear [Name],
+
+I am contacting you on behalf of the National Assembly’s research committee. We are compiling expert opinions for our annual report titled “Korean Peninsula Outlook: 2022–2023.” Your insights in [area] would greatly enhance our study.
+
+Please indicate your preferred topic area and availability. A modest honorarium of 300,000 KRW will be provided.
+
+Thank you,
+Kim [Last Name]
+Research Division, National Assembly of Korea",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,yeikyoeng@hanmail.net,2025,Event Speaker Invitation,1-on-1 communications
+110,"Subject: Urgent: Upgrade Your [Naver] Mailbox Storage
+
+Dear Naver User,
+
+Your mailbox storage has reached a critical low (5% remaining). To continue uninterrupted access to your messages, please click the link below to upgrade your storage capacity immediately:
+
+[Upgrade Your Mailbox]
+
+For further details, refer to our Help Guide.
+
+Best,
+Naver Support Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,aikcmh70@naver.com,2025,Account or Service Upgrade,Automated account
+111,"Subject:Purchase Order Notification: Action Required
+
+Dear Customer,
+
+Please review the attached purchase order details for your upcoming order. Kindly confirm the machining specifications provided below:
+
+- Order Reference: [Order ID]
+- Specifications: [Front-side machining details]
+
+Your prompt confirmation is appreciated.
+
+Sincerely,
+Lee Byung-jun
+Mold Development Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,choise623@hanmail.net,2025,Purchase Order,1-on-1 communications
+112,"Subject: Flight Ticket Payment Confirmation
+
+Hello [Name],
+
+Your flight ticket payment of ₩40,400 has been successfully processed. Please find the attached confirmation document for your records. Note that the download link is valid for 3 days, expiring on [expiry date].
+
+For any queries, please contact Korean Air support.
+
+Regards,
+Korean Air",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,jhlee1@di-system.com,2025,Purchase Order,1-on-1 communications
+113,"Subject: Request for Expert Opinion – Article Contribution
+
+Dear [Name],
+
+On behalf of [Think Tank], I invite you to contribute a 1,200-word article addressing recent missile tests and their implications for regional security. Your insights on topics such as potential nuclear tests and defense budget adjustments are highly valued.
+
+Please submit your draft to this link by [submission date] for consideration, along with your proposed title. An honorarium of USD $480 will be provided.
+
+Best regards,
+[Sender Name]
+Senior Fellow, [Think Tank]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+114,"Subject: Quick Follow-Up on the Q2 Report
+
+Hello [Recipient Name],
+
+I hope your day is going well. I’m following up on the Q2 Performance Report we discussed at last week’s planning session. We’ve made a few changes based on feedback from senior management, so it’s important that you review and confirm everything is correct. There have also been some updates regarding next quarter’s budget allocations that I need your input on right away.
+
+Here’s your secure link to access the updated Q2 file:
+Review Document
+
+Please take a look and let me know if you have any questions. I’d appreciate it if you could finalize your comments before Wednesday so that we can keep things moving smoothly.
+
+Thank you for your prompt help on this—I know it’s a busy time of year for everyone.
+
+Best,
+Brian Collins
+Senior Analyst, Finance Department
+YourCompany, Inc.
+(555) 123‑4567",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+115,"Subject: Follow-Up: Document Submission and Feedback
+
+Dear [Name],
+
+Thank you for agreeing to review our draft document. Please find the secure file attached. The attachment is password protected; the password will be sent in a separate correspondence shortly.
+
+Your feedback is essential to our project. We appreciate your timely response.
+
+Sincerely,
+[Sender Name]
+[Think Tank] Communications",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+116,"Subject:Request for Interview: Policy Discussion
+
+Dear Professor [Name],
+
+Thank you for your interest in discussing North Korea’s recent provocations. After consulting with [University Professor], we have refined our questions and request a brief interview via the secure link below:
+
+[Interview Link]
+
+Password: [redacted]
+
+We look forward to your valuable insights.
+
+Best regards,
+[Student Name]
+Graduate Research, [University]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+117,"Subject:Immediate: Account Security Notice
+
+Dear [Name],
+
+An unauthorized attempt to access your [portal] account was detected on [date] at [time] (KST) from IP [IP address] in Washington, U.S. For your safety, please click below to change your password immediately:
+
+[Change Password Now]
+
+Neglecting this step may lead to account deactivation per our security policy.
+
+Sincerely,
+Security Team",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Account Security/Login,Automated account
+118,"Subject: Invitation from [Korean Journal Program] – Expert Query
+
+Greetings [Name],
+
+I am [Writer Name] from [Legitimate Korean Journal Program]. As we prepare an in‐depth feature on North Korean affairs, your expertise is highly recommended by Professor [Name] from [University].
+
+Please spare a few moments to answer a short questionnaire via the secure link below:
+
+[Questionnaire Link]
+
+Thank you for your cooperation.
+
+Best regards,
+[Writer Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+119,"Subject:Follow-Up: Expert Questionnaire Submission Request
+
+Dear [Name],
+
+As discussed, please complete the attached questionnaire (password protected; password enclosed in a separate message) regarding your expert insights on North Korean developments. Your detailed responses (4–5 sentences per question) will be invaluable.
+
+Thank you for your prompt attention.
+
+Regards,
+[Sender Name]
+[Korean Journal Program]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+120,"Subject: Request for Survey Participation on Nuclear Policy
+
+Hello [Name],
+
+I am [Academic Name] from [Korean Think Tank]. We are conducting a confidential survey on North Korea’s nuclear strategy and would greatly appreciate your participation. In return, a token of appreciation (300,000 KRW) will be provided.
+
+Please reply to this email to receive the survey link.
+
+Warm regards,
+[Academic Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+121,"Subject: Urgent: Action Required for Documentation Verification
+
+Dear [Name],
+
+Thank you for your recent response. To complete our process, please review the attached Personal Information Usage Agreement form. Fill out your affiliation, name, ID number, bank details, and attach the requested copies.
+
+The document is password protected; the password is provided in a separate file.
+
+Please return the completed document at your earliest convenience.
+
+Regards,
+[Sender Name]
+[Think Tank Institute]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+122,"Subject:Briefing Request: North Korea Missile Test Analysis
+
+Dear [Name],
+
+I am [Journalist Name] with [Legitimate U.S. News Organization]. We are preparing an analytical piece on North Korea’s recent missile tests and would like your expert commentary. Please address the following:
+1. Prospects for a near-future nuclear test?
+2. Strategic shifts in regional defense responses?
+3. Implications for Japan’s defense strategy?
+
+Your input by [deadline] would be greatly appreciated.
+
+Sincerely,
+[Journalist Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+123,"Subject:Clarification Needed: Interview Follow-Up
+
+Dear Professor [Name],
+
+Following our previous conversation regarding North Korean policies, please review the updated interview details via the secure link below. Let us know if you have any differing perspectives or additional insights.
+
+[Review Interview Details]
+
+Password: [redacted]
+
+Thank you for your time,
+[Student Name]
+Graduate Research, [University]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+124,"Subject: Invitation to Contribute: Policy Analysis Article
+
+Dear [Think Tank Employee],
+
+On behalf of [Another Think Tank], I invite you to compose a 1,200-word article on recent North Korean missile launches and their broader implications. Your analysis on topics such as potential nuclear tests and regional defense strategies would be greatly valued.
+
+Please submit your contribution by [Oct 21, 2025]. An honorarium of approximately USD 480 will be provided.
+
+Best regards,
+[Sender Name]
+Senior Fellow, [Think Tank]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+125,"Subject: Security Alert: Infringement Notice
+
+Dear [Name],
+
+This message is to inform you that content violating the National Security Law has been published online using your email identifier. We have identified a YouTube link associated with the infringement:
+
+[YouTube Video Link]
+
+Please provide your system’s MAC and Ethernet hardware addresses to facilitate our investigation, or alternatively, run the attached diagnostic tool and return the generated report.
+
+Kindly respond within 24 hours, then delete this message.
+
+Thank you for your cooperation,
+[Investigator Name]
+[Investigation Agency]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Account Security/Login,Automated account
+126,"Subject: Urgent: Interview Feedback Requested
+
+Dear [Name],
+
+Following your recent interview on North Korean developments, we kindly request your final feedback on a few questions regarding the country’s next nuclear test prospects and potential shifts in defense policies. Please reply via the secure link below:
+
+[Feedback Submission Link]
+
+Your input is crucial for our comprehensive report.
+
+Thank you,
+[Journalist Name]
+[Legitimate U.S. News Organization]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+127,"Subject: Government Benefit Payment – Your Personal Information Needed  
+
+Dear [Recipient Name],  
+
+In response to the COVID-19 crisis, the Federal Government is offering direct-pay benefits of up to $1000 per person in your household. To process your payment, please update your personal and bank details using this secure link: [link]
+
+This program is in addition to existing welfare support schemes like SNAP, Housing Vouchers, and TANF.
+
+If you don’t have a bank account, the government will send a check to your address.
+
+Thank you for being a part of the solution.
+
+Warm regards,  
+USDA Benefits Team
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,usda@governmentprograms.gov,2025,Government assistance ,Government communications
+128,"Subject: Support Measures for Businesses During COVID-19
+
+Dear Sir/Madam,
+
+As part of the UK Government's support during the COVID-19 crisis, the Chancellor has introduced the Covid Corporate Financing Facility (CCFF) to help businesses maintain liquidity.
+
+Please register your business for the CCFF by clicking the link below:  
+[attached URL]
+
+The registration deadline is June 26, 2020, by 2 PM.
+
+Thank you for your cooperation.
+
+Best regards,  
+Bank of England",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,bankofengland@gov.uk,2025,Government assistance ,Government communications
+129,"Subject: Mandatory COVID-19 Testing Registration – Urgent
+
+Dear Citizen,
+
+In response to COVID-19, the Ministry of Health has announced mandatory testing for residents in Delhi, Mumbai, Hyderabad, Chennai, and Ahmedabad who are over 40 years old.
+
+Please register for your free COVID-19 test immediately using the link below:  
+[link]
+
+Ensure to provide complete contact details and PAN number during registration.
+
+Thank you for your support in controlling the pandemic.
+
+Best regards,  
+Ministry of Health and Family Welfare, Government of India",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+130,"Subject: Graphic Design Internship Application 
+
+Dear Ms. [Redacted],
+
+I am a sophomore studying graphic design at the University of Southern California and I’m reaching out to apply for an internship at Sony Pictures. Your company’s commitment to innovative and creative design aligns with my passion for digital productions.
+
+I maintain a 4.0 GPA and have received merit scholarships every semester. I’m confident I can contribute to your team.
+
+Please review my portfolio and resume using the link below:  
+[http://ldrv.ms/1cgvRPGx]
+
+I look forward to your response.
+
+Sincerely,  
+Christina Karsten",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Job Offer/Opportunity,1-on-1 communications
+131,"Subject: Career Document Review – Urgent Action Needed
+
+Hello,
+
+Please check the attached document regarding Jeong Jin-il's career experience and fill out the form.
+
+The maximum salary for the New Business Development team is up to 300 million KRW.
+
+Thank you for your prompt response.
+
+Best regards,  
+[Sender Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Job Offer/Opportunity,1-on-1 communications
+132,"Subject: Action Required: Seminar Remarks and Follow-Up Documents  
+
+Dear [Recipient Name],  
+
+Thank you for your invaluable contribution to yesterday's seminar. We appreciate the time you dedicated to sharing your thoughts.  
+
+Could you kindly summarize your remarks from the meeting into one A4 page and send it to me? Your input will greatly assist with preparing the meeting's final report.  
+
+Also, a reminder to submit the conference fee forms as per the instructions. The deputy director requires them in the prescribed format.  
+
+Password for the documents: nrnghl  
+
+I look forward to receiving your summary.  
+
+Best regards,  
+Secretary, Representative Tae Young-ho's Office  
+Attachment: Seminar_Materials_Results.docx (48 KB)",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Job Offer/Opportunity,1-on-1 communications
+133,"Subject: Thank You for Attending – Seminar Materials Submission
+
+Hello,
+
+Thank you for attending yesterday's seminar. We appreciate your valuable contributions. Kindly summarize your remarks in one A4 page for the meeting report.
+
+Additionally, please submit your conference fee forms as directed. The deputy director requires it in a prescribed format.
+
+Password: nrnghl  
+Please send the documents at your earliest convenience.
+
+Best regards,  
+[Secretary Name]",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+134,"Subject: Urgent: Complete Your Application for Dispersed Families Survey  
+
+Dear [Recipient Name],  
+
+This is a friendly reminder from the Ministry of Unification regarding the ongoing survey for separated families. The registration period is from June 11 to August 10.  
+
+Kindly review and submit your application, whether it's a new application, a change of contact details, or a cancellation request. Your timely submission will help with the processing for inter-Korean family reunions.  
+
+Please share the attached application form within your organization, and send it back by Friday, August 10 at the latest.  
+
+Thank you for your cooperation.  
+
+Best regards,  
+[Sender Name]  
+Ministry of Unification, Dispersed Families Information System  
+Attachment: Application Form.hwp (231.3 KB)
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+135,"Subject: Urgent: COVID-19 Guidelines and WHO Recommendations   
+
+Dear [Recipient Name],  
+
+Due to the widespread misinformation surrounding COVID-19, we have compiled a detailed guide containing WHO’s official recommendations for preventing and controlling the virus.  
+
+This document provides vital information, including:  
+- Handrub formulations  
+- Infection prevention during healthcare  
+- Quarantine guidelines for COVID-19 containment  
+
+Please find the document attached for your review.  
+
+For questions, contact WHO at: WHOipc@who.int  
+
+Thank you for your cooperation.  
+
+Best regards,  
+World Health Organization
+Attachment: COVID 19 - WHO_DOC.zip.arj (371 KB)
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+136,"Subject: Immediate Action Needed: Access Government Financial Assistance  
+
+Dear [Recipient Name],  
+
+In response to the ongoing COVID-19 pandemic, the government has introduced a new financial support program to assist you. We have also launched the Work Support Program (MOM), and today a new supplementary scheme has been introduced, providing up to $750 for each employee.  
+
+To ensure you benefit from these schemes, please update your details using this secure link: [link]  
+
+Thank you for your cooperation.  
+
+Warm regards,  
+USDA – Direct Payment Benefits",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+137,"Subject: COVID-19 Financial Support Update for Citizens of Korea  
+
+Dear Citizens,  
+
+As part of the government's ongoing support measures, new financial programs have been introduced to help businesses and individuals during the COVID-19 crisis.  
+
+To claim your assistance, please visit the link below for more information and registration:  
+[link]  
+
+Thank you for your cooperation.  
+
+Best regards,  
+Ministry of Welfare, Government of Korea
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+138,"Subject: Business Support During COVID-19 - New Financial Plan  
+
+Dear Singapore Business Members,  
+
+Thank you for your support during the COVID-19 shutdown. To help ease the impact on businesses, the Singapore government has launched several partnership programs, including a new $750 subsidy for each company.  
+
+Please register your business to receive this subsidy by clicking the link below:  
+[link]  
+
+Thank you for your continued cooperation.  
+
+Best regards,  
+Ministry of Manpower, Singapore
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+139,"Subject: Critical COVID-19 Safety Measures – Download Now  
+
+Dear Sir,  
+
+Please review the attached document regarding important safety measures for the ongoing COVID-19 pandemic.  
+
+This document provides key information that could help protect you and others. Please click here to download:  
+[link]  
+
+Stay safe,  
+Dr. [Name Redacted], Singapore Specialist
+Attachment: Safety_Measures.pdf
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+140,"Subject: Essential COVID-19 Prevention Guidelines  
+
+Dear Sir/Madam,  
+
+Attached you will find the latest safety guidelines and WHO recommendations for preventing the spread of COVID-19. These measures are vital to protect yourself and others.  
+
+Please take a moment to review the document.  
+
+Symptoms to watch out for: Fever, cough, shortness of breath.  
+
+Best regards,  
+[Name Redacted]  
+WHO Plague Prevention & Control
+Attachment: COVID_Safety_Guidelines.pdf
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Government assistance ,Government communications
+141,"Subject: Important: Situation on the Korean Peninsula  
+
+Dear [Recipient Name],  
+
+We are sending materials regarding the current situation on the Korean Peninsula. Please review the attached document for more detailed information.  
+
+Thank you for your attention.  
+
+Best regards,  
+UN Security Council Sanctions Division  
+Attachment: 03-02.doc
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+142,"Subject: Suspicious Activity Detected on Your Google Account  
+
+Dear [Recipient Name],  
+
+We have noticed suspicious activity linked to your Gmail account. To ensure your account is secure, we have taken necessary actions. However, we still recommend you verify your account activity.
+
+Please click here to review your activity:  
+[link]  
+
+Thank you for your cooperation.  
+
+Regards,  
+Google Loss Prevention Department
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Account security/login,Automated account
+143,"Subject: Results from the Unification and North Korea Conference  
+
+Hello,  
+
+Thank you for your participation in the Unification and North Korea Academic Conference. We will be sending out the results of the joint review between September 5 and 7.  
+
+Those who submitted papers will receive a modest honorarium.  
+
+Best regards,  
+Korea Global Forum 2016 Organizing Committee  
+Seoul, Yonsei University  
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+144,"Subject: Request for Comments on North Korea's Actions  
+
+Greetings,  
+
+I hope you are well. I’m writing regarding North Korea’s missile activity.  
+
+Could you provide insight on the following questions:  
+- Will North Korea conduct its next nuclear test soon?  
+- Is a quieter approach to North Korean aggression necessary?  
+- Should Japan consider increasing its defense budget?  
+
+I look forward to your response within 5 days.  
+
+Sincerely,  
+[Name Redacted]  
+[Institution Name]
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+145,"Subject: Confirmation of Bitcoin Payment to Your Namecheap Account  
+
+Dear [Recipient Name],  
+
+We would like to inform you that a Bitcoin payment of $120.00 has been successfully added to your Namecheap account. You can now use the account balance for purchases or renewals.  
+
+Transaction Details:  
+Amount: $120.00  
+Transaction ID: 82073030  
+Username: BRoyal1990  
+
+To view more details, visit:  
+[link]  
+
+Thank you for choosing Namecheap.  
+
+Best regards,  
+Namecheap Support Team
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Purchase Order,1-on-1 communications
+146,"Subject: DPRK FINAL - Opinion Request  
+
+Dear [Recipient Name],  
+
+We would appreciate it if you could share your opinion on the current situation on the Korean Peninsula.  
+
+Please review the link for more details:  
+[https://policy.carnegieinsider.com](https://policy.carnegieinsider.com)  
+
+Best regards,  
+Prof. Georgy Toloraya  
+Executive Director, Russian National Committee on BRICS Research
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+147,"Subject: North Korea Test-Fired Missiles – Analysis Request  
+
+Dear [Recipient Name],  
+
+We’ve received several inquiries regarding North Korea’s missile tests. Please check the article below for more information:  
+[link]  
+
+Looking forward to hearing your thoughts.  
+
+Best regards,  
+Chad O'Carroll  
+Chief Executive Officer, Korea Risk Group
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+148,"Subject: NK News: Latest Articles on North Korea  
+
+Dear [Recipient Name],  
+
+I’m sharing recent articles about North Korea that might interest you. Feel free to share them with colleagues or friends.  
+
+Best regards,  
+Chad O'Carroll  
+CEO, Korea Risk Group  
+Cell KR: [Phone Number Redacted]
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Journalistic Queries,1-on-1 communications
+149,"Subject: Presentation Due – Urgent Action Required  
+
+Hello,  
+
+I’m running late for the meeting, but I must show you the presentation before 3 PM. Please review it here:  
+[link]  
+
+I’ll be arriving soon.  
+
+Best regards,  
+[Name Redacted]
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Event Speaker Invitation,1-on-1 communications
+150,"Subject: Important: Verify Your Apple ID for Security  
+
+Dear [Recipient Name],  
+
+We’ve detected unusual activity on your Apple ID. Please verify your identity within 24 hours to avoid your account being disabled.  
+
+Click here to verify your account:  
+[appleid.apple.com](http://appleid.apple.com)  
+
+Best regards,  
+Apple Support Team
+",AI-generated phishing,Speculative,North Korean actor,UNKNOWN,UNKNOWN,2025,Account security/login,Automated account
