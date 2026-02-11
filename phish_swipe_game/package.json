@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
-    "next": "15.2.4",
+    "next": "^15.5.12",
     "react": "^19",
     "react-dom": "^19",
     "react-icons": "^4.12.0",
