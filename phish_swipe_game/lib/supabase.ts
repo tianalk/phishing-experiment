@@ -82,26 +82,38 @@ export async function fetchRandomEmails(count: number = 10): Promise<Email[]> {
     console.log('Using sample email data.');
     return shuffleArray([...sampleEmails]).slice(0, count);
   }
-  
+
   try {
     console.log('Fetching emails from Supabase...');
-    // Fetch random emails from both human and AI sources
-    // Using a View or RPC might be more efficient for random selection at scale
-    const { data, error } = await supabase
-      .from('emails') // Assuming 'emails' is your table name
+    // Race the Supabase query against a timeout to avoid hanging forever
+    const timeoutMs = 8000;
+    const fetchPromise = supabase
+      .from('emails')
       .select('id, email_body, true_label, source')
-      .limit(count * 5); // Fetch more than needed to simulate randomness
-    
+      .limit(count * 5);
+    const timeoutPromise = new Promise<never>((_, reject) =>
+      setTimeout(() => reject(new Error('Supabase request timed out')), timeoutMs)
+    );
+
+    const { data, error } = await Promise.race([fetchPromise, timeoutPromise]);
+
     if (error) {
       console.error('Error fetching emails:', error);
-      return [];
+      console.log('Falling back to sample email data.');
+      return shuffleArray([...sampleEmails]).slice(0, count);
     }
-    
+
+    if (!data || data.length === 0) {
+      console.warn('No emails found in database. Falling back to sample data.');
+      return shuffleArray([...sampleEmails]).slice(0, count);
+    }
+
     // Shuffle and take the required count
     return shuffleArray(data as Email[]).slice(0, count);
   } catch (err) {
     console.error('Error in fetchRandomEmails:', err);
-    return [];
+    console.log('Falling back to sample email data.');
+    return shuffleArray([...sampleEmails]).slice(0, count);
   }
 }
 

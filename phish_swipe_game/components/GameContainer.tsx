@@ -20,7 +20,8 @@ const GameContainer: React.FC = () => {
   const [sessionId, setSessionId] = useState<string>('');
   const [score, setScore] = useState<number>(0);
   const [totalClassified, setTotalClassified] = useState<number>(0);
-  
+  const [sessionEmailsClamped, setSessionEmailsClamped] = useState<number>(0);
+
   // UI state
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
@@ -54,6 +55,7 @@ const GameContainer: React.FC = () => {
         }
         
         setEmails(randomEmails);
+        setSessionEmailsClamped(Math.min(sessionEmailsCount, randomEmails.length));
         setCurrentEmailIndex(0);
         setScore(0);
         setTotalClassified(0);
@@ -149,9 +151,9 @@ const GameContainer: React.FC = () => {
   };
   
   // Game metrics
-  const gameProgress = Math.floor((totalClassified / sessionEmailsCount) * 100);
+  const gameProgress = Math.floor((totalClassified / sessionEmailsClamped) * 100);
   const currentEmail = emails[currentEmailIndex];
-  const isGameFinished = totalClassified >= sessionEmailsCount;
+  const isGameFinished = sessionEmailsClamped > 0 && totalClassified >= sessionEmailsClamped;
   
   // Loading state
   if (loading) {
@@ -182,7 +184,7 @@ const GameContainer: React.FC = () => {
   
   // Game finished state
   if (isGameFinished) {
-    const scorePercentage = Math.round((score / sessionEmailsCount) * 100);
+    const scorePercentage = Math.round((score / sessionEmailsClamped) * 100);
     
     return (
       <div className={styles.finishedState}>
@@ -190,7 +192,7 @@ const GameContainer: React.FC = () => {
         
         <div className={styles.scoreCircle}>
           <div className={styles.scoreValue}>{score}</div>
-          <div className={styles.scoreTotal}>/ {sessionEmailsCount}</div>
+          <div className={styles.scoreTotal}>/ {sessionEmailsClamped}</div>
         </div>
         
         <div className={styles.scorePercentage}>
@@ -237,7 +239,7 @@ const GameContainer: React.FC = () => {
       <div className={styles.statsContainer}>
         <div className={styles.progressContainer}>
           <div className={styles.progressInfo}>
-            <span>Email {totalClassified + 1} of {sessionEmailsCount}</span>
+            <span>Email {totalClassified + 1} of {sessionEmailsClamped}</span>
             <span>{score} correct</span>
           </div>
           <div className={styles.progressBarBackground}>
